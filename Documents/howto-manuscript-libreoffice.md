@@ -12,6 +12,8 @@ _Examples_
 - `libreoffice-manuscript-novel-example.odt` and  
   `libreoffice-manuscript-novel-example.pdf`
 
+XXXXXXXXXX still editing XXXXXXXXXX
+
 # LibreOffice Templates
 
 Included here are some LibreOffice Templates for both the short story and novel.
