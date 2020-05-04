@@ -1,12 +1,10 @@
-# Leveraging Open Source and Free Services to Write
+# Leveraging Open Source and Inexpensive Services to Write
 
-Making typing special characters easier
-
-Documents: tips-n-tricks, configuration, howtos, etc.
-  - TBD: HowTos: tips and tricks and configurations that just make life easier
-  - Em-dash made easy (—)
-  - Chicago-style ellipsis (. . .)
-  - Other typographical things: non-breaking spaces, for example
-  - TBD: Joplin usage
-  - TBD: Font advice
-  - TBD: Style discussion and summary
+- [Dashes and Spaces and Ellipses](./howto-dashes-and-ellipses-on-linux.md) — or how to make typing special characters easier.
+- [My Writing Process](./my-writing-process.md) — a general description of how I write (from a tools perspective).
+- Thinking in Fonts — TBD
+- Writing in Style — snippets and examples of writing in the Chicago style (may include some AP style examples). TBD
+- Submissions (Manuscript development and formatting):
+  - Short stories — TBD
+  - Novels — TBD
+  - Poetry — TBD

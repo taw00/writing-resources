@@ -1,3 +1,5 @@
+_THIS CONTENT WILL MOVE ELSEWHERE_
+
 # LibreOffice Templates
 
 Included here are some LibreOffice Templates for both the short story and novel.
@@ -30,7 +32,7 @@ Novel example
 Read carefully the comments. There are a couple things you need to know:
 1. Most Novel/Story styles are listed under two parent styles in the "Styles
    and Formatting" manager widget: `Styles > Manage Styles(F11)`. Look for
-   `Heading > Novel|Story Heading` and `Novel|Story Special-Cased Text` 
+   `Heading > Novel|Story Heading` and `Novel|Story Special-Cased Text`
 2. Review the styles in use: `Frontmatter` and `Frontmatter, footer`; `Title`;
    `ByLine`; `Default Style` and `Default Style, noindent`; `Part`; `Chapter`
    and `Chapter, nonbreaking`; `Scene`; `Subscene`
@@ -77,4 +79,3 @@ That should get you started. Make a copy and play with the format. It should be 
 ## Publish-ready templates (for self-publishing)
 
 I don't have published book ebook and ePub templates yet.
-
