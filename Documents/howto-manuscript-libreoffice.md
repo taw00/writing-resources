@@ -1,4 +1,16 @@
-_THIS CONTENT WILL MOVED ELSEWHERE_
+# LibreOffice for Manuscript Formatting and development
+
+#### Relevant artifacts
+
+_Templates_
+- `Manuscript, Short Story.ott`
+- `Manuscript, Novel.ott`
+
+_Examples_
+- `libreoffice-manuscript-short-story-example.odt` and  
+  `libreoffice-manuscript-short-story-example.pdf`
+- `libreoffice-manuscript-novel-example.odt` and  
+  `libreoffice-manuscript-novel-example.pdf`
 
 # LibreOffice Templates
 
