@@ -73,18 +73,25 @@ This is kinda how they are broken down.
 
 The fonts that have little decorative things at the end of the strokes used to draw them. In theory—and there is some modest science to back this claim—serif fonts are easier to read.
 
-Proportional: Each character takes up space that is complementary to that characters form. An _M_ will take up more horizontal space than an _I_.
+Proportional — Each character takes up space that is complementary to that characters form. An _M_ will take up more horizontal space than an _I_.
 
-_Proportional Serif fonts:_
-* Utilitarian: Times New Roman, Liberation Serif, DejaVu Serif, Nimbus Serif, _TeX Gyre Termes_.
-* Nuanced to fancy: Libre Baskerville (10pt), _EB Garamond_, _Cormorant Garamond Medium_, _Libre Caslon (10pt)_, TeX Gyre Pagello (Palantino-like), TeX Gyre Bonum (Bookman-like), Cormorant, Goudy Bookletter 1911, _Cardo (11pt)_, Cormorant Infant, TeX Gyre Schola (Century Schoolbook-like)
-* Specialized: _Averia Serif Libre_, Accanthis, Source Serif Pro, Merriweather
+Monospace — Each character takes up precisely the same amount of space as any other character.
 
-Monospace: Each character takes up precisely the same amount of space as any other character.
+> I've italized some of my favorite fonts.
 
-_Monospace Serif fonts:_
-* Utilitarian (Courier New): Liberation Mono, Nimbus Mono, _TeX Gyre Cursor_
-* Nuanced: Inconsolata (Consolata-like), _Anonymous Pro_ .&nbsp;.&nbsp;. and I don't know what else; there aren't many.
+_**Proportional Serif fonts:**_
+* Utilitarian:  
+  Times New Roman, Liberation Serif, DejaVu Serif, Nimbus Serif, _TeX Gyre Termes_.
+* Nuanced to fancy:  
+  Libre Baskerville (10pt), _EB Garamond_, _Cormorant Garamond Medium_, _Libre Caslon (10pt)_, TeX Gyre Pagello (Palantino-like), TeX Gyre Bonum (Bookman-like), Cormorant, Goudy Bookletter 1911, _Cardo (11pt)_, Cormorant Infant, TeX Gyre Schola (Century Schoolbook-like, 10.5pt)
+* Specialized:  
+  _Averia Serif Libre_ (11pt Light for body text), Accanthis, Source Serif Pro, Merriweather
+
+_**Monospace Serif fonts:**_
+* Utilitarian (Courier New):  
+  Liberation Mono, Nimbus Mono, _TeX Gyre Cursor_
+* Nuanced:  
+  Inconsolata (Consolata-like), _Anonymous Pro_ .&nbsp;.&nbsp;. and I don't know what else; there aren't many.
 * Specialized: Source Code Pro
 
 Serif fonts can be further classified: Old-style, Transitional, Didone, Slab serif, and more. We won't discuss those here.
@@ -93,27 +100,31 @@ Serif fonts can be further classified: Old-style, Transitional, Didone, Slab ser
 
 Fonts that are literally _sans_ serif. They don't have extra decorators at the end of the stokes that define them. They can, TeX Gyre Schola (Century Schoolbook-like) be, similarly to serif fonts, proportional or monospace.
 
-> **Sans-serif fonts are best used for headers or blocks of specialized text meant to be differentiated for some reason from the rest of the text.**
+> Sans-serif fonts are best used for headers or blocks of specialized text meant to be differentiated for some reason from the rest of the text.
 
-_Proportional Sans-Serif fonts:_
-* Utilitarian (Arial): Liberation Sans, Nimbus Sans, Noto Sans
-* Nuanced (Calibri): Carlito, _Overpass_, Montserrat, Fira Sans Light, Fira Sans Book, TeX Gyre Heros (Helvetica-like)
-* Specialized: _Averia Sans Libre_, TeX Gyre Adventor (Avant Garde Gothic-like), Tiresias (for the visually impaired), Andika (for beginning readers)
+_**Proportional Sans-Serif fonts:**_
+* Utilitarian (Arial):  
+  Liberation Sans, Nimbus Sans, Noto Sans
+* Nuanced (Calibri):  
+  Carlito, _Overpass_, Montserrat, Fira Sans Light, Fira Sans Book, TeX Gyre Heros (Helvetica-like)
+* Specialized:  
+  _Averia Sans Libre_, TeX Gyre Adventor (Avant Garde Gothic-like), Tiresias (for the visually impaired), Andika (for beginning readers)
 
-_Monospace Sans-Serif fonts:_ Comfortaa, Overpass Mono, Roboto (11pt), Droid Sans Mono, Fira Mono
+_**Monospace Sans-Serif fonts:**_
+* Comfortaa, Overpass Mono, Roboto (11pt), Droid Sans Mono, Fira Mono
 
 
 #### Cursive and Other
 
-**Cursive.** There's a whole group of fonts that mimic hand-printed text, scripted text, and calligraphy. These fall into what some call the "cursive" font grouping. It's a terrible category name, but it hints at what may be included.
+Cursive. There's a whole group of fonts that mimic hand-printed text, scripted text, and calligraphy. These fall into what some call the "cursive" font grouping. It's a terrible category name, but it hints at what may be included.
 
-Examples: TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka
+_**Cursive examples:**_ TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka
 
-**Other.** There a lot of subcategories that I am not going to spell out, but for now we'll call them "other." Art decco, block-characters .&nbsp;.&nbsp;. all those characters that are text but very specialized and not organic (hand-written).
+Other character fonts. There a lot of subcategories that I am not going to spell out, but for now we'll call them "other." Art decco, block-characters .&nbsp;.&nbsp;. all those characters that are text but very specialized and not organic (hand-written).
 
-Examples: Cormorant Unicase, Comorant SC, and more.
+_**Other character fonts examples:**_ Cormorant Unicase, Comorant SC, and more.
 
-**Symbols.** Emoji. Dingbats. And more. I'll let you find these on your own. :) Glyphs and images that aren't letters.
+Symbols: Glyphs and images that aren't letters. Emoji. Dingbats. And more. Useful for [separators and flourishes between scenes and things](https://www.thebookdesigner.com/2010/06/book-design-8-solutions-to-the-text-break-dilemma/) in stories and books. I'll let you find these on your own. :)
 
 ## Whew!
 
