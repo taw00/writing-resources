@@ -6,9 +6,13 @@ There are a zillion different fonts. Each has their own personality, vibe, _feel
 
 We have all wasted countless hours trying one font and then the next and then the next. The more presentation-focused a project is, the more difficult the choice. The more permanent the choice—printed material for example—it becomes even more difficult.
 
-_**Writing**_
+_**Developmental writing**_
 
-When it comes to developmental writing, the choice of font becomes relatively easy: use whatever you like. When you need to submit to an agent, use something neutral, traditional, and utilitarian (easy to read). When you submit to a publisher, use what the publisher demands, if they do not have a preference, fall back to—you guessed it—neutral, traditional, and utilitarian.
+When it comes to developmental writing in the earliest stages, the choice of font becomes relatively easy: use whatever you like.
+
+In the latter stages, when you need to submit to an agent, settle on something neutral, traditional, and utilitarian (easy to read, no artistic flourishes).
+
+Finally, when you submit to a publisher, use whatever that publisher demands. And if they do not have a preference, fall back to—you guessed it—neutral, traditional, and utilitarian.
 
 _**Publishing**_
 
@@ -16,25 +20,31 @@ If you self-publishing (printed, ebook, ePub, or blog), your font choices matter
 
 ## Fonts from Draft &#x27F6; Submission
 
-**Times New Roman.** Times's the font of choice for writers, editors, everyone. Or just about. And heck, if you self-publish, it's boring, but it is a solid (safe) font for your book as well. Times is a readable and reasonably attractive, proportional, serif font.
+> Spoiler alert! (TL;DR)
+>
+> <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, you want to chose Times New Roman (rather, her open source equivalent) as your font of choice for most stages of revision and submission.</span>
+
+**Times New Roman.** Writers, editors, everyone has settled on Times New Roman as _the_ default standard for submission. Or just about. And heck, even as a selection for self-publishing, it's boring, but it is a solid (safe) font for your book as well. Times is a readable and reasonably attractive, proportional, serif font.
 
 **Courier New.** The Courier New font—monospace serif—_used_ to be the choice for drafting and submission, but that is no longer the case. Courier was the default choice for so long because that's what a typewriter could produce. We no longer use typewriters and hard-copy manuscripts anymore. Even the Luddite of Luddites, Wendell Berry, has someone (his wife I believe) use a computer, type up his handwritten manuscripts (written in _pencil_ by the way—he has never owned or used a computer himself), and submit the digital copy to an editor. Some editors _may_ ask for it in Courier, but it's highly unlikely.
 
-**Arial/Calibri.** Rumor has it that some editors prefer the copy in a sans-serif font. If so, Arial is the typical choice.
+**Arial.** Rumor has it that some editors prefer the copy be in a sans-serif font. They are crazy people, but if so, Arial is the typical choice.
 
-### Linux doesn't supply these fonts!
+### But! But! Linux doesn't supply these fonts!
 
-Nope. All of those fonts mentioned, as named, are proprietary. There were ugly times in the Linux desktop past where the fonts were substantially poor in comparison to Apple and Windows.
+Nope. All of those fonts mentioned, as named, are proprietary. In the past, there were ugly ugly times in the history of the Linux desktop where the fonts were _substantially_ poor in comparison to Apple and Windows.
 
-It took awhile for the open source world to catch up to the proprietary world (fonts where not a priority for Linux users in the early days), but they finally did. Now the variety of fonts available are rather insane. Many are available as packaged items .&nbsp;.&nbsp;.
+It took awhile for the open source world to catch up to the proprietary world (fonts where not a priority for Linux users in those early days), but they finally did. Now, the variety of fonts available are rather insane in number.
+
+Many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
 
 > * In the Gnome desktop, open the _Software_ application (gnome-software)
 > * Click "Add-ons" and then "Fonts"
 > * At the time of this writing (May 5th, 2020 and Fedora 31), I count 272 fonts available.
 
-Even more can be found at [OpenFont](https://openfont.com), [Google Fonts](https://fonts.google.com), and [FontSquirrel](https://fontsquirrel.com).
+But even more can be found at [OpenFont](https://openfont.com), [Google Fonts](https://fonts.google.com), and [FontSquirrel](https://fontsquirrel.com).
 
-And with that, Times New Roman, Courier New, Arial, and the rest, have open alternatives that, I would argue are just as mature and effective today. Some reasonable alternatives include . . .
+And with that, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives include&nbsp;.&nbsp;.&nbsp;.
 * Times New Roman &#x27F6; Liberation Serif, Nimbus Roman, TeX Gyre Termes
 * Courier New &#x27F6; Liberation Mono, Nimbus Mono, TeX Gyre Cursor
 * Arial &#x27F6; Liberation Sans, Nimbus Sans, Noto Sans
