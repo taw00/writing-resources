@@ -66,7 +66,7 @@ I am terrified of losing things. I _have_ lost things in the past. Therefore, I 
 - Manuals of style—_professionalize your prose_  
   - [Chicago Manual of Style](https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style)
   - [The Associated Press (AP) Stylebook](https://www.apstylebook.com/)
-- Experiments:  
+- Experimenting:  
   [Manuskript](http://www.theologeek.ch/manuskript/), [oStorybook](https://ostorybook.tuxfamily.org),  [Scribus](https://www.scribus.net/), [Kile](https://en.wikipedia.org/wiki/Kile), [Reedsy Book Editor](https://reedsy.com/write-a-book), and more.
 
 
