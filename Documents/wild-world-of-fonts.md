@@ -117,4 +117,9 @@ Examples: Cormorant Unicase, Comorant SC, and more.
 
 ## Whew!
 
-Fonts can lead you down a path of darkness and sorrow. Be careful out there, but make sure you are happy with the fonts you have chosen. Once you have whittled down the fonts you are interested in, print a handful of pages of each, and compare them to books on your bookshelf. Good luck!
+Once you have whittled down the fonts that interest you&nbsp;.&nbsp;.&nbsp;.
+* If it is a webpage: Zoom in and out; stretch the window; make it tall; print the webpage. What happens?
+* If it is a manuscript: Print a handful of pages for each font and look at them and consider: Do the fonts disappear from my attention when I read the page? Are they easy to read? Print a 12pt Times New Roman comparable and make sure the font size is the same and the double-spacing for each are adequate.
+* If it is a book: Print out a handful of pages for each candidate font and compare them to books from your bookshelf. Again, are they attractive _and_ non-distracting? Does the tone of each font fit the genre of your writing? What do other books in your genre use for their fonts, both headings and body text?
+
+Fonts can lead you down a path of darkness and sorrow. Be careful out there. Just make sure you are happy with the fonts you have chosen. Good luck!
