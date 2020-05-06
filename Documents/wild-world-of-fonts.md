@@ -111,10 +111,10 @@ Examples: TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand,
 
 **Other.** There a lot of subcategories that I am not going to spell out, but for now we'll call them "other." Art decco, block-characters .&nbsp;.&nbsp;. all those characters that are text but very specialized and not organic (hand-written).
 
-Examples: Cormorant Unicase, Comorant SC,
+Examples: Cormorant Unicase, Comorant SC, and more.
 
-**Symbols.** Emoji. Dingbats. And more. I'll let you find these on your own. :) They are glyphs and images that aren't letters.
+**Symbols.** Emoji. Dingbats. And more. I'll let you find these on your own. :) Glyphs and images that aren't letters.
 
 ## Whew!
 
-Fonts can lead you down a path of darkness and sorrows. Be careful out there, but make sure you are happy with the fonts you have chosen. Once you have whittled down the fonts you are interested in, print a handful of pages of each, and compare them to books on your bookshelf. Good luck!
+Fonts can lead you down a path of darkness and sorrow. Be careful out there, but make sure you are happy with the fonts you have chosen. Once you have whittled down the fonts you are interested in, print a handful of pages of each, and compare them to books on your bookshelf. Good luck!
