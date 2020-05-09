@@ -68,13 +68,13 @@ That being said, unless you really really need to make a statement that requires
 We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I am predominantly using right now .&nbsp;.&nbsp;.
 
 > **For print**
-> * Submission: TeX Gyre Termes and _maybe_ Averia Serif for headings
+> * Submission: TeX Gyre Termes and _maybe_ Avería Serif for headings
 > * Publishing: I would use EB Garamond, Cormorant Garamand Medium, Cardo  (11pt), or Libre Caslon Text (10pt), but not Source Serif Pro.
 
 > **For the web:** I maintain three websites using these fonts:
 > 1. Headings: Source Sans Pro / Text: Cardo
 > 2. Headings: Source Sans Pro / Text: Source Serif Pro
-> 3. Headings: Averia Sans Libre / Text: Libre Caslon Text
+> 3. Headings: Avería Sans Libre / Text: Libre Caslon Text
 > * Specialized usage (used for some blog posts): Chilanka, Overpass, and Fira Mono
 
 ### Font categories and some associated fonts
@@ -100,7 +100,7 @@ _**Proportional Serif fonts**_
 | Utilitarian<br/><span style="font-size: 50%;">(Times New Roman)</span> | Nuanced<br/><span style="font-size: 50%;">(Georgia, Constantia)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
 | Liberation Serif| Libre Baskerville (10pt) | Accanthis
-| DejaVu Serif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Averia Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
+| DejaVu Serif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Avería Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
 | Nimbus Serif | ❤ _Libre Caslon (10pt)_ | Merriweather
 | ❤ _TeX Gyre Termes_ | ❤ _Cardo (11pt)_ | Source Serif Pro
 | Cormorant Infant Medium | Cormorant Infant Medium
@@ -112,58 +112,15 @@ _**Proportional Serif fonts**_
 
 </div>
 
-<div style="display: none; visibility: hidden;">
-
-* **Utilitarian (Times New Roman-like):**  
-  - Liberation Serif
-  - DejaVu Serif
-  - Nimbus Serif
-  - ❤ _TeX Gyre Termes_
-  - Cormorant Infant Medium
-* **Nuanced and/or fancy:**  
-  - Libre Baskerville (10pt)
-  - TeX Gyre Bonum (Bookman-like)
-  - ❤ _Libre Caslon (10pt)_
-  - ❤ _Cardo (11pt)_
-  - Cormorant Infant Medium (almost utilitarian)
-  - ❤ _EB Garamond 12_
-  - Cormorant Garamond Medium
-  - Goudy Bookletter 1911
-  - TeX Gyre Pagello (Palantino-like)
-  - TeX Gyre Schola (Century Schoolbook-like, 10.5pt)
-* **Specialized:**  
-  Display, heading, etc.
-  - Accanthis
-  - ❤ _Averia Serif Libre_ (11pt Light for text body)
-  - Merriweather
-  - Source Serif Pro
-
-</div>
-
 _**Monospace Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Utilitarian<br/><span style="font-size: 50%;">(Courier New-like)</span> | Nuanced<br/><span style="font-size: 50%;">(Consolas-like)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
+| Utilitarian<br/><span style="font-size: 50%;">(Courier New)</span> | Nuanced<br/><span style="font-size: 50%;">(Consolas)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
-| ❤ _TeX Gyre Cursor_  | ❤ _Anonymous Pro_ | Source Code Pro |
+| ❤ _TeX Gyre Cursor_  | ❤ _Anonymous Pro_ | |
 | Liberation Mono  | Inconsolata | |
 | Nimbus Mono | |
-
-</div>
-
-<div style="display: none; visibility: hidden;">
-
-* **Utilitarian (Courier New):**  
-  - ❤ _TeX Gyre Cursor_
-  - Liberation Mono
-  - Nimbus Mono
-* **Nuanced:**  
-- ❤ _Anonymous Pro_
-  - Inconsolata (Consolata-like)
-  - .&nbsp;.&nbsp;. and I don't know what else; there aren't many.
-* **Specialized:**
-  - Source Code Pro
 
 </div>
 
@@ -181,7 +138,7 @@ _**Proportional Sans-Serif fonts**_
 
 | Utilitarian<br/><span style="font-size: 50%;">(Arial)</span> | Nuanced<br/><span style="font-size: 50%;">(Calibri, Helvetica)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
-| Liberation Sans | Carlito<br/><span style="font-size: 50%;">(Calibri-like)</span> | ❤ _Averia Sans Libre_ |
+| Liberation Sans | Carlito<br/><span style="font-size: 50%;">(Calibri-like)</span> | ❤ _Avería Sans Libre_ |
 | Nimbus Sans | TeX Gyre Heros<br/><span style="font-size: 50%;">(Helvetica-like)<span> | TeX Gyre Adventor<br/><span style="font-size: 50%;">(Avant Garde Gothic-like)</span> |
 | Noto Sans | Fira Sans Book | Tiresias<br/><span style="font-size: 50%;">(for the visually impaired)</span> |
 |   | Fira Sans Light | Andika<br/><Sspan style="font-size: 50%;">(for beginning readers)</span> |
@@ -189,50 +146,16 @@ _**Proportional Sans-Serif fonts**_
 |   | ❤ _Overpass_ |   |
 
 </div>
-<div style="display: none; visibility: hidden;">
-
-_**Proportional Sans-Serif fonts:**_
-* **Utilitarian (Arial):**  
-  - Liberation Sans
-  - Nimbus Sans
-  - Noto Sans
-* **Nuanced (Calibri):**  
-  - Carlito
-  - TeX Gyre Heros (Helvetica-like)
-  - Fira Sans Book
-  - Fira Sans Light
-  - Montserrat
-  - ❤ _Overpass_
-* **Specialized:**  
-  - ❤ _Averia Sans Libre_
-  - TeX Gyre Adventor (Avant Garde Gothic-like)
-  - Tiresias (for the visually impaired)
-  - Andika (for beginning readers)
-
-</div>
 
 _**Monospace Sans-Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Utilitarian<br/><span style="font-size: 50%;">(Lucida Sans Typewriter)</span> | Nuanced<br/><span style="font-size: 50%;">(Monaco)</span> |
-| -- | -- |
-| DejaVu Sans Mono | Comfortaa |
+| Utilitarian<br/><span style="font-size: 50%;">(Lucida Sans Typewriter)</span> | Nuanced<br/><span style="font-size: 50%;">(Monaco)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
+| -- | -- | -- |
+| DejaVu Sans Mono | Comfortaa | Source Code Pro |
 | Droid Sans Mono | ❤ _Fira Mono_ |
 | Liberation Mono | ❤ _Overpass Mono_ |
-| Source Code Pro |   |
-
-</div>
-<div style="display: none; visibility: hidden;">
-
-_**Monospace Sans-Serif fonts:**_
-  - Comfortaa
-  - Droid Sans Mono
-  - ❤ _Fira Mono_
-  - Liberation Mono
-  - ❤ _Overpass Mono_
-  - Roboto Mono (11pt)
-  - Source Code Pro
 
 </div>
 
