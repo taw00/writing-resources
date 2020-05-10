@@ -67,9 +67,13 @@ That being said, unless you really really need to make a statement that requires
 
 We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I am predominantly using right now .&nbsp;.&nbsp;.
 
-> **For print**
+> **For print (LibreOffice)**
 > * Submission: TeX Gyre Termes and _maybe_ Avería Serif for headings
 > * Publishing: I would use EB Garamond, Cormorant Garamand Medium, Cardo  (11pt), or Libre Caslon Text (10pt), but not Source Serif Pro.
+
+> **For print (Google Docs)**
+> * Submission: Tinos and _maybe_ Avería Serif for headings
+> * Publishing: Don't use Google Docs as a source for your published documents.
 
 > **For the web:** I maintain three websites using these fonts:
 > 1. Headings: Source Sans Pro / Text: Cardo
@@ -99,12 +103,13 @@ _**Proportional Serif fonts**_
 
 | Utilitarian<br/><span style="font-size: 50%;">(Times New Roman)</span> | Nuanced<br/><span style="font-size: 50%;">(Georgia, Constantia)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
-| Liberation Serif| Libre Baskerville (10pt) | Accanthis
-| DejaVu Serif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Avería Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
-| Nimbus Serif | ❤ _Libre Caslon (10pt)_ | Merriweather
-| ❤ _TeX Gyre Termes_ | ❤ _Cardo (11pt)_ | Source Serif Pro
-| Cormorant Infant Medium | Cormorant Infant Medium
-| | ❤ _EB Garamond 12_
+| DejaVu Serif | Libre Baskerville (10pt) | Accanthis
+| FreeSerif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Avería Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
+| ❤ _Liberation Serif_ | ❤ _Libre Caslon (10pt)_ | Merriweather
+| Nimbus Serif | ❤ _Cardo (11pt)_ | Source Serif Pro
+| Roboto Slab | Crimson Text
+| ❤ _TeX Gyre Termes_ | Cormorant Infant Medium
+| ❤ _Tinos_ | ❤ _EB Garamond 12_
 | | ❤ _Cormorant Garamond Medium_
 | | Goudy Bookletter 1911
 | | TeX Gyre Pagello<br/><span style="font-size: 50%;">(Palantino-like)</span>
