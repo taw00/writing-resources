@@ -91,7 +91,7 @@ Proportional — Each character takes up space that is complementary to that cha
 
 Monospace — Each character takes up precisely the same amount of space as any other character.
 
-> I've ❤ _highlighted_ some of my favorite fonts.
+> I've ❤_highlighted_ some of my favorite fonts.
 
 _**Proportional Serif fonts**_
 
@@ -105,7 +105,7 @@ _**Proportional Serif fonts**_
 | ❤ _TeX Gyre Termes_ | ❤ _Cardo (11pt)_ | Source Serif Pro
 | Cormorant Infant Medium | Cormorant Infant Medium
 | | ❤ _EB Garamond 12_
-| | Cormorant Garamond Medium
+| | ❤ _Cormorant Garamond Medium_
 | | Goudy Bookletter 1911
 | | TeX Gyre Pagello<br/><span style="font-size: 50%;">(Palantino-like)</span>
 | | TeX Gyre Schola (11pt)<br/><span style="font-size: 50%;">(Century Schoolbook-like)</span>
@@ -116,11 +116,10 @@ _**Monospace Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Utilitarian<br/><span style="font-size: 50%;">(Courier New)</span> | Nuanced<br/><span style="font-size: 50%;">(Consolas)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
-| -- | -- | -- |
+| Utilitarian<br/><span style="font-size: 50%;">(Courier New)</span> | Nuanced<br/><span style="font-size: 50%; display: none;">()</span> |
+| -- | -- |
 | ❤ _TeX Gyre Cursor_  | ❤ _Anonymous Pro_ | |
-| Liberation Mono  | Inconsolata | |
-| Nimbus Mono | |
+| Nimbus Mono  |  | |
 
 </div>
 
@@ -151,11 +150,12 @@ _**Monospace Sans-Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Utilitarian<br/><span style="font-size: 50%;">(Lucida Sans Typewriter)</span> | Nuanced<br/><span style="font-size: 50%;">(Monaco)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
-| -- | -- | -- |
-| DejaVu Sans Mono | Comfortaa | Source Code Pro |
+| Utilitarian<br/><span style="font-size: 50%;">(Lucida Sans Typewriter)</span> | Nuanced<br/><span style="font-size: 50%;">(Menlo, SF Mono, Consolas)</span> |
+| -- | -- |
+| DejaVu Sans Mono | Comfortaa |
 | Droid Sans Mono | ❤ _Fira Mono_ |
 | Liberation Mono | ❤ _Overpass Mono_ |
+| Source Code Pro | Inconsolata |
 
 </div>
 
