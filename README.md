@@ -1,14 +1,15 @@
 # Writing Resources
 
-_**On writing using predominantly open source software and inexpensive cloud services.**_
+_**On writing with predominantly open source software and inexpensive cloud services.**_
 
 I write.
 
 I write short stories, novels, and poetry. I blog. I freelance write and edit and I have contributed to online news outlets and such in the past. I sometimes collaborate with others.
 
-I do all this via a [Fedora Linux](https://getfedora.org/) desktop and in the cloud. Over time I have adopted patterns, configurations, and technologies that have made my life easier. I figured others might benefit from my experiences, and maybe others have contributions they would like to share as well. Thus, this GitHub repo was born.
+I do all this with [Fedora Linux](https://getfedora.org/) as my desktop platform and by leveraging inexpensive cloud services. Over time I have adopted patterns, configurations, and technologies that have made my life easier. I figured others might benefit from my experiences, and maybe others have contributions they would like to share as well. Thus, this GitHub repo was born.
 
-> Assumption: I assume readers are reasonably proficient with Fedora Linux. This is not a _How to Use Linux_ tutorial. It's a _Guidance on Using My Favorite Tools on Linux_ set of tutorials.
+> Assumption:  
+> Most of what I provide here is operating system neutral, but I do drop bits of technical instruction here and there, and most of that will be Fedora Linux specific. My assumption is that you will be able to pick through it and figure out what makes sense to you and discard what does not. Also, if software does not run on Fedora Linux or the cloud, I will probably discuss it (see below).
 
 ## What's in this GitHub repo?
 
@@ -31,3 +32,9 @@ I do all this via a [Fedora Linux](https://getfedora.org/) desktop and in the cl
   I know nothing about audiobooks (but Ms. Penn does, see above).
 - Thoughts on query letters and the publishing process. Not yet anyway.
 - Thoughts on submission to literary journals and the like.
+
+&nbsp;
+
+Write well.
+
+—Todd Warner <todd@errantruminant.com>

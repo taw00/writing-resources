@@ -1,4 +1,4 @@
-_THIS CONTENT WILL MOVED ELSEWHERE_
+_THIS CONTENT MAY BE MOVED ELSEWHERE_
 
 # LibreOffice Templates
 
@@ -34,7 +34,7 @@ Read carefully the comments. There are a couple things you need to know:
    and Formatting" manager widget: `Styles > Manage Styles(F11)`. Look for
    `Heading > Novel|Story Heading` and `Novel|Story Special-Cased Text`
 2. Review the styles in use: `Frontmatter` and `Frontmatter, footer`; `Title`;
-   `ByLine`; `Default Style` and `Default Style, noindent`; `Part`; `Chapter`
+   `ByLine`; `Text Body` and `First Line Indent`; `Part`; `Chapter`
    and `Chapter, nonbreaking`; `Scene`; `Subscene`
    - `Part` and `Chapter` will start a new page and pad 2 inches from the top.
    - `Chapter, nonbreaking` will not start a new page and pad 2 inches. It is
@@ -42,10 +42,9 @@ Read carefully the comments. There are a couple things you need to know:
      don't want to create two pages. In that case. See my example with Part 1 and I.
      (a Chapter).
    - `Part`; `Chapter` and `Chapter, nonbreaking`; `Scene` and `Subscene` will
-     create a `Default Style, noindent` paragraph as soon as you hit enter.
+     create a `Text Body` non-indenting paragraph as soon as you hit enter.
      Traditionally, there is no indent after one of those header elements. And then
-     all the rest of the paragraphs should be merely `Default Style` which does
-     auto-indent.
+     all the rest of the paragraphs should be `First Line Indent` which, as the name implies, auto-indents.
 3. Font: _TexGyreTermes_ is the default. The fonts are embedded in the examples and the templates, but install the fonts on your system: `sudo dnf install texlive-tex-gyre -y`  
    _Liberation Serif_ is another _Times New Roman_ -type font, but
    _TexGyreTermes_ is, IMHO, a better option. I will talk about fonts more
@@ -53,15 +52,14 @@ Read carefully the comments. There are a couple things you need to know:
    Fonts are set in _Tools_ > _Options_ > _LibreOffice Writer_ > _Basic Fonts (Wester)__
 4. Note how the Fields are used to populate a lot of the metadata for the document. There are three primary places that metadata are stored:
    - _Tools_ > _Options_ > _LibreOffice_ > _User Data_
-   - _File_ > _Properties_ > . . .
-     - _File_ > _Properties_ > _General_ > [press Reset Properties] — press that when you change the name in the _User Data_ above.
-     - _File_ > _Properties_ > _Description_
+   - _File_ > _Properties_ > _Description_ (set the title here)
    - Fields: CTRL-F2 _-or-_ _Insert_ > _Fields_ > _More Fields_  — Customized fields include:
+     - Author and Author2
      - AddressLine1 and AddressCityStateZip
      - Phone and EmailAddress
      - DateMMMMYYYY
      - PenName (used for the byline)
-     - PenNameCoAuthor (I didn't provide an example, but you can figure it out)
+     - PenNameAuthor2 (if there is a second author)
      - WordCount
      - Audience and Genre
      - DocumentVersion string
@@ -71,7 +69,7 @@ Read carefully the comments. There are a couple things you need to know:
    will end up with the wrong page number in the header. I can't explain it,
    but you will just have to be careful and backout any mistakes and try again.
 
-That should get you started. Make a copy and play with the format. It should be relatively straight forward.
+That should get you started. Create new document with the template that you prefer and play with the format. It should be relatively straight forward.
 
 ---
 ---
