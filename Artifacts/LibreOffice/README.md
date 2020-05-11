@@ -20,14 +20,14 @@ Install these LibreOffice templates into `~/Templates` (Fedora Linux), and resta
 
 ### Examples:
 
-Install the above templates first, then open these in LibreOffice.
+Install the above templates first, then start up LibreOffice and open these examples implementations.
 
 Short Story example
-* ODT: [libreoffice.manuscript-novel.example.odt]()
-* PDF: [libreoffice.manuscript-novel.example.pdf]()
+* ODT: [libreoffice.manuscript-novel.example.lovecraft-mountains-of-madness.odt](./libreoffice.manuscript-novel.example.lovecraft-mountains-of-madness.odt)
+* PDF: [libreoffice.manuscript-novel.example.lovecraft-mountains-of-madness.pdf](./libreoffice.manuscript-novel.example.lovecraft-mountains-of-madness.pdf)
 Novel example
-* ODT: [libreoffice.manuscript-short-story.example.odt]()
-* PDF: [libreoffice.manuscript-short-story.example.pdf]()
+* ODT: [libreoffice.manuscript-short-story.example.lovecraft-call-of-cthulhu.odt](./libreoffice.manuscript-short-story.example.lovecraft-call-of-cthulhu.odt)
+* PDF: [libreoffice.manuscript-short-story.example.lovecraft-call-of-cthulhu.pdf](./libreoffice.manuscript-short-story.example.lovecraft-call-of-cthulhu.pdf)
 
 Read carefully the comments. There are a couple things you need to know:
 1. Most Novel/Story styles are listed under two parent styles in the "Styles

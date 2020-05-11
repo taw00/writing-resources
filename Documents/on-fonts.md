@@ -20,7 +20,6 @@ If you self-publishing (printed, ebook, ePub, or blog), your font choices matter
 
 ## TL;DR: the fonts I use
 
-
 > **Spoiler alert!**
 >
 > <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, you want to choose a Times New Roman equivalent for most stages of the revision and submission process.</span>
@@ -28,17 +27,19 @@ If you self-publishing (printed, ebook, ePub, or blog), your font choices matter
 We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I predominantly use at the moment .&nbsp;.&nbsp;.
 
 **For print (LibreOffice)**
-* Submission: TeX Gyre Termes and _maybe_ Avería Serif for headings
-* Publishing: I would use EB Garamond, Cormorant Garamand Medium, Cardo  (11pt), or Libre Caslon Text (10pt), but not Source Serif Pro.
+* Submission: TeX Gyre Termes and _maybe_ TeX Gyre Pagella or TeX Gyre Heros or Overpass for headings
+* Publishing:
+  - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Text
+  - Headings: TeX Gyre Pagella, Overpass or Carlito, Montserrat, or Avería Sans (or Serif) Libre (the Avería fonts are almost too fancy).
 
 **For print (Google Docs)**
-* Submission: Tinos and _maybe_ Avería Serif for headings
-* Publishing: Don't use Google Docs as a source for your published documents.
+* Submission: Tinos and _maybe_ Quicksand for headings
+* Publishing: Don't use Google Docs for documents targeting publication.
 
 **For the web:** I maintain three websites using these fonts:
-1. Headings: Source Sans Pro / Text: Cardo
-2. Headings: Source Sans Pro / Text: Source Serif Pro
-3. Headings: Avería Sans Libre / Text: Libre Caslon Text  
+1. Text: Cardo / Headings: Source Sans Pro
+2. Text: Source Serif Pro / Headings: Source Sans Pro
+3. Text: Libre Caslon Text / Headings: Avería Sans Libre  
    &nbsp;  
    Specialized usage (used for some blog posts): Chilanka, Overpass, Overpass Mono, and Fira Mono
 
@@ -111,17 +112,19 @@ _**Proportional Serif fonts**_
 | FreeSerif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Avería Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
 | ❤ _Liberation Serif_ | ❤ _Libre Caslon (10pt)_ | Merriweather
 | Nimbus Serif | ❤ _Cardo (11pt)_ | Source Serif Pro
-| Noto Serif | Crimson Text
+| Noto Serif | ❤ _Crimson Text_
 | Roboto Slab | Cormorant Infant Medium
 | ❤ _TeX Gyre Termes_ | ❤ _EB Garamond 12_
 | ❤ _Tinos_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Cormorant Garamond Medium_
 | | Goudy Bookletter 1911
-| | TeX Gyre Pagello<br/><span style="font-size: 50%;">(Palantino-like)</span>
+| | TeX Gyre Pagella<br/><span style="font-size: 50%;">(Palantino-like)</span>
 | | TeX Gyre Schola (11pt)<br/><span style="font-size: 50%;">(Century Schoolbook-like)</span>
 
 </div>
 
 _**Monospace Serif fonts**_
+
+> Note: many monospaced fonts are serif-ish or sans-serif-ish. You could lump them all together and judged them as something in between.
 
 <div style="font-size: 75%;">
 
@@ -147,16 +150,18 @@ _**Proportional Sans-Serif fonts**_
 
 | Utilitarian<br/><span style="font-size: 50%;">(Arial)</span> | Nuanced<br/><span style="font-size: 50%;">(Calibri, Helvetica)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
-| ❤ _Arimo_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Carlito_<br/><span style="font-size: 50%;">(Crosextra family, Calibri-like)</span> | ❤ _Avería Sans Libre_ |
-| Liberation Sans | ❤ _TeX Gyre Heros_<br/><span style="font-size: 50%;">(Helvetica-like)<span> | TeX Gyre Adventor<br/><span style="font-size: 50%;">(Avant Garde Gothic-like)</span> |
-| Nimbus Sans | Fira Sans Book | Tiresias<br/><span style="font-size: 50%;">(for the visually impaired)</span> |
-| Noto Sans | Fira Sans Light | Andika<br/><span style="font-size: 50%;">(for beginning readers)</span> |
-|   | Montserrat |   |
-|   | ❤ _Overpass_ |   |
+| ❤ _Arimo_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Carlito_<br/><span style="font-size: 50%;">(Crosextra family, Calibri-like)</span> | TeX Gyre Adventor<br/><span style="font-size: 50%;">(Avant Garde Gothic-like)</span> |
+| Liberation Sans | ❤ _TeX Gyre Heros_<br/><span style="font-size: 50%;">(Helvetica-like)<span> | ❤ _Avería Sans Libre_ |
+| Nimbus Sans | Fira Sans Book | ❤ _Montserrat_ |
+| Noto Sans | Fira Sans Light |  |
+|   | ❤ _Overpass_ | Tiresias<br/><span style="font-size: 50%;">(for the visually impaired)</span> |
+|   | ❤ _Quicksand_ | Andika<br/><span style="font-size: 50%;">(for beginning readers)</span> |
 
 </div>
 
 _**Monospace Sans-Serif fonts**_
+
+> Note: many monospaced fonts are sans-serif-ish or serif-ish. You could lump them all together and judged them as something in between.
 
 <div style="font-size: 75%;">
 
@@ -190,5 +195,9 @@ Once you have whittled down the fonts that interest you&nbsp;.&nbsp;.&nbsp;.
 * If it is a webpage: Zoom in and out; stretch the window; make it tall; print the webpage. What happens?
 * If it is a manuscript: Print a handful of pages for each font and look at them and consider: Do the fonts disappear from my attention when I read the page? Are they easy to read? Print a 12pt Times New Roman comparable and make sure the font size is the same and the double-spacing for each are adequate.
 * If it is a book: Print out a handful of pages for each candidate font and compare them to books from your bookshelf. Again, are they attractive _and_ non-distracting? Does the tone of each font fit the genre of your writing? What do other books in your genre use for their fonts, both headings and body text?
+* Check out the [FontPair website](https://fontpair.co/) for ideas inspiration.
 
+&nbsp;
 Fonts can lead you down a path of darkness and sorrow. Be careful out there. Just make sure you are happy with the fonts you have chosen. Good luck!
+
+—Todd Warner <todd@errantruminant.com>
