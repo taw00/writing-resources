@@ -8,10 +8,10 @@ Included here are some LibreOffice Templates for both the short story and novel.
 
 ### The templates:
 
-Install the templates into `~/Templates` (Fedora Linux), and they will then be available for use.  
+Install these LibreOffice templates into `~/Templates` (Fedora Linux), and restart LibreOffice.  
 
-* [Manuscript, Novel.ott]
-* [Manuscript, Short Story.ott]
+* [Manuscript, Novel.ott](./Manuscript%2C%20Novel.ott)
+* [Manuscript, Short Story.ott](./Manuscript%2C%20Short%20Story.ott)
 
 > _(Note: The default template location is set in LibreOffice in Tools > Options
 > LibreOffice > Paths. If your preferred location is not there, add it at the
@@ -23,11 +23,11 @@ Install the templates into `~/Templates` (Fedora Linux), and they will then be a
 Install the above templates first, then open these in LibreOffice.
 
 Short Story example
-* ODT: [libreoffice-manuscript-novel-example.odt]()
-* PDF: [libreoffice-manuscript-novel-example.pdf]()
+* ODT: [libreoffice.manuscript-novel.example.odt]()
+* PDF: [libreoffice.manuscript-novel.example.pdf]()
 Novel example
-* ODT: [libreoffice-manuscript-short-story-example.odt]()
-* PDF: [libreoffice-manuscript-short-story-example.pdf]()
+* ODT: [libreoffice.manuscript-short-story.example.odt]()
+* PDF: [libreoffice.manuscript-short-story.example.pdf]()
 
 Read carefully the comments. There are a couple things you need to know:
 1. Most Novel/Story styles are listed under two parent styles in the "Styles

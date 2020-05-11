@@ -18,11 +18,33 @@ _**Publishing**_
 
 If you self-publishing (printed, ebook, ePub, or blog), your font choices matter far more as does the general design of the book itself. Book content design is an entire subject unto itself that I will not go into here.
 
+## TL;DR: the fonts I use
+
+
+> **Spoiler alert!**
+>
+> <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, you want to choose a Times New Roman equivalent for most stages of the revision and submission process.</span>
+
+We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I predominantly use at the moment .&nbsp;.&nbsp;.
+
+**For print (LibreOffice)**
+* Submission: TeX Gyre Termes and _maybe_ Avería Serif for headings
+* Publishing: I would use EB Garamond, Cormorant Garamand Medium, Cardo  (11pt), or Libre Caslon Text (10pt), but not Source Serif Pro.
+
+**For print (Google Docs)**
+* Submission: Tinos and _maybe_ Avería Serif for headings
+* Publishing: Don't use Google Docs as a source for your published documents.
+
+**For the web:** I maintain three websites using these fonts:
+1. Headings: Source Sans Pro / Text: Cardo
+2. Headings: Source Sans Pro / Text: Source Serif Pro
+3. Headings: Avería Sans Libre / Text: Libre Caslon Text  
+   &nbsp;  
+   Specialized usage (used for some blog posts): Chilanka, Overpass, Overpass Mono, and Fira Mono
+
 ## Fonts from Draft &#x27F6; Submission
 
-> Spoiler alert! (TL;DR)
->
-> <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, you want to chose Times New Roman—or rather, her open source equivalent—for most stages of the revision and submission process.</span>
+### The big three: Times New Roman, Courier New, and Arial
 
 **Times New Roman.** Times is a proportional serif font for which writers, editors, everyone have settled on as _the_ default standard for submission. Or just about everyone. And heck, even if self-publishing, Times is boring, but it is a safe and reliable font choice for your book as well. Times is a readable and reasonably attractive font.
 
@@ -49,9 +71,9 @@ Many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
 But even more can be found at [OpenFont](https://openfont.com), [Google Fonts](https://fonts.google.com), and [FontSquirrel](https://fontsquirrel.com).
 
 And with that, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives include&nbsp;.&nbsp;.&nbsp;.
-* Times New Roman &#x27F6; Liberation Serif, Nimbus Roman, TeX Gyre Termes
-* Courier New &#x27F6; Liberation Mono, Nimbus Mono, TeX Gyre Cursor
-* Arial &#x27F6; Liberation Sans, Nimbus Sans, Noto Sans
+* Times New Roman &#x27F6; Liberation Serif, Tinos, TeX Gyre Termes
+* Courier New &#x27F6; Cousine, Noto Mono, TeX Gyre Cursor
+* Arial &#x27F6; Arimo, Liberation Sans, Noto Sans, Overpass, TeX Gyre Heros
 
 > **In short: For submission of a manuscript, pick a Times-like font unless you are asked to do otherwise.**
 
@@ -62,24 +84,6 @@ And with that, Times New Roman—and Courier New and Arial and the rest—have o
 For publication, heavy text websites, and more, you probably want something more nuanced than Times New Roman. And you want to start considering different fonts for different purposes (headers, text body, quotations and asides, etc.).
 
 That being said, unless you really really need to make a statement that requires it, stick to fonts that are nuanced rather than boldly different or bizarre. One of the most commonly cited criticism of poorly designed self-published books is that authors sometimes pick distracting fonts. Don't do that. Er on the side of conservatism.
-
-### The fonts I'm using
-
-We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I am predominantly using right now .&nbsp;.&nbsp;.
-
-> **For print (LibreOffice)**
-> * Submission: TeX Gyre Termes and _maybe_ Avería Serif for headings
-> * Publishing: I would use EB Garamond, Cormorant Garamand Medium, Cardo  (11pt), or Libre Caslon Text (10pt), but not Source Serif Pro.
-
-> **For print (Google Docs)**
-> * Submission: Tinos and _maybe_ Avería Serif for headings
-> * Publishing: Don't use Google Docs as a source for your published documents.
-
-> **For the web:** I maintain three websites using these fonts:
-> 1. Headings: Source Sans Pro / Text: Cardo
-> 2. Headings: Source Sans Pro / Text: Source Serif Pro
-> 3. Headings: Avería Sans Libre / Text: Libre Caslon Text
-> * Specialized usage (used for some blog posts): Chilanka, Overpass, and Fira Mono
 
 ### Font categories and some associated fonts
 
@@ -107,10 +111,10 @@ _**Proportional Serif fonts**_
 | FreeSerif | TeX Gyre Bonum<br/><span style="font-size: 50%;">(Bookman-like)</span> | ❤ _Avería Serif Libre (11pt)_<br/><span style="font-size: 50%;">(Light version for text body)</span>
 | ❤ _Liberation Serif_ | ❤ _Libre Caslon (10pt)_ | Merriweather
 | Nimbus Serif | ❤ _Cardo (11pt)_ | Source Serif Pro
-| Roboto Slab | Crimson Text
-| ❤ _TeX Gyre Termes_ | Cormorant Infant Medium
-| ❤ _Tinos_ | ❤ _EB Garamond 12_
-| | ❤ _Cormorant Garamond Medium_
+| Noto Serif | Crimson Text
+| Roboto Slab | Cormorant Infant Medium
+| ❤ _TeX Gyre Termes_ | ❤ _EB Garamond 12_
+| ❤ _Tinos_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Cormorant Garamond Medium_
 | | Goudy Bookletter 1911
 | | TeX Gyre Pagello<br/><span style="font-size: 50%;">(Palantino-like)</span>
 | | TeX Gyre Schola (11pt)<br/><span style="font-size: 50%;">(Century Schoolbook-like)</span>
@@ -121,10 +125,11 @@ _**Monospace Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Utilitarian<br/><span style="font-size: 50%;">(Courier New)</span> | Nuanced<br/><span style="font-size: 50%; display: none;">()</span> |
+| Utilitarian<br/><span style="font-size: 50%;">(Courier New)</span> | Nuanced<br/>&nbsp; |
 | -- | -- |
-| ❤ _TeX Gyre Cursor_  | ❤ _Anonymous Pro_ | |
-| Nimbus Mono  |  | |
+| ❤ _Cousine_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Anonymous Pro_ |
+| ❤ _TeX Gyre Cursor_  | | |
+| Noto Mono  |  | |
 
 </div>
 
@@ -142,10 +147,10 @@ _**Proportional Sans-Serif fonts**_
 
 | Utilitarian<br/><span style="font-size: 50%;">(Arial)</span> | Nuanced<br/><span style="font-size: 50%;">(Calibri, Helvetica)</span> | Specialized<br/><span style="font-size: 50%;">(display, heading, etc.)</span> |
 | -- | -- | -- |
-| Liberation Sans | Carlito<br/><span style="font-size: 50%;">(Calibri-like)</span> | ❤ _Avería Sans Libre_ |
-| Nimbus Sans | TeX Gyre Heros<br/><span style="font-size: 50%;">(Helvetica-like)<span> | TeX Gyre Adventor<br/><span style="font-size: 50%;">(Avant Garde Gothic-like)</span> |
-| Noto Sans | Fira Sans Book | Tiresias<br/><span style="font-size: 50%;">(for the visually impaired)</span> |
-|   | Fira Sans Light | Andika<br/><Sspan style="font-size: 50%;">(for beginning readers)</span> |
+| ❤ _Arimo_<br/><span style="font-size: 50%;">(Croscore family)</span> | ❤ _Carlito_<br/><span style="font-size: 50%;">(Crosextra family, Calibri-like)</span> | ❤ _Avería Sans Libre_ |
+| Liberation Sans | ❤ _TeX Gyre Heros_<br/><span style="font-size: 50%;">(Helvetica-like)<span> | TeX Gyre Adventor<br/><span style="font-size: 50%;">(Avant Garde Gothic-like)</span> |
+| Nimbus Sans | Fira Sans Book | Tiresias<br/><span style="font-size: 50%;">(for the visually impaired)</span> |
+| Noto Sans | Fira Sans Light | Andika<br/><span style="font-size: 50%;">(for beginning readers)</span> |
 |   | Montserrat |   |
 |   | ❤ _Overpass_ |   |
 
@@ -161,10 +166,11 @@ _**Monospace Sans-Serif fonts**_
 | Droid Sans Mono | ❤ _Fira Mono_ |
 | Liberation Mono | ❤ _Overpass Mono_ |
 | Source Code Pro | Inconsolata |
+| Noto Sans Mono |   |
 
 </div>
 
-#### Cursive and Other
+#### [Cursive Script](https://en.wikipedia.org/wiki/List_of_typefaces#Script), Brush, Calligraphic, Handwriting, Other
 
 Cursive. There's a whole group of fonts that mimic hand-printed text, scripted text, and calligraphy. These fall into what some call the "cursive" font grouping. It's a terrible category name, but it hints at what may be included.
 
