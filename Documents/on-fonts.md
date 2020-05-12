@@ -69,7 +69,7 @@ Many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
 > * Click "Add-ons" and then "Fonts"
 > * At the time of this writing (May 5th, 2020 and Fedora 31), I count 272 fonts available.
 
-But even more can be found at [OpenFont](https://openfont.com), [Google Fonts](https://fonts.google.com), and [FontSquirrel](https://fontsquirrel.com).
+But even more can be found at [OpenFont](https://openfont.com), [Google Fonts](https://fonts.google.com), [dafont](https://www.dafont.com) and [FontSquirrel](https://fontsquirrel.com).
 
 And with that, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives include&nbsp;.&nbsp;.&nbsp;.
 * Times New Roman &#x27F6; Liberation Serif, Tinos, TeX Gyre Termes
@@ -175,12 +175,12 @@ _**Monospace Sans-Serif fonts**_
 
 </div>
 
-#### [Cursive Script](https://en.wikipedia.org/wiki/List_of_typefaces#Script), Brush, Calligraphic, Handwriting, Other
+#### [Cursive Script](https://en.wikipedia.org/wiki/List_of_typefaces#Script), Fancy, Brush, Calligraphic, Handwriting, Other
 
 Cursive. There's a whole group of fonts that mimic hand-printed text, scripted text, and calligraphy. These fall into what some call the "cursive" font grouping. It's a terrible category name, but it hints at what may be included.
 
 _**Cursive examples:**_  
-TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka
+TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka, Blokletters Viltstift (comic sans-like)
 
 Other character fonts. There a lot of subcategories that I am not going to spell out, but for now we'll call them "other." Art decco, block-characters .&nbsp;.&nbsp;. all those characters that are text but very specialized and not organic (hand-written).
 
