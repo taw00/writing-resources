@@ -16,7 +16,7 @@ In the latter stages, when you need to submit to an agent or a publisher, choose
 
 _**Publishing**_
 
-If you self-publishing (printed, ebook, ePub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book or publication. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
+If you self-publishing (printed, ebook, ePub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
 
 ## TL;DR: the fonts I use
 
@@ -24,40 +24,41 @@ If you self-publishing (printed, ebook, ePub, or blog), your choice of font (or 
 >
 > <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, given no other guidance, you want to choose a Times New Roman font equivalent for most stages of the revision and submission process.</span>
 
-We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I predominantly use at the moment .&nbsp;.&nbsp;.
+We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I predominantly use _at the moment_ (I change periodically) .&nbsp;.&nbsp;.
 
 **For print (LibreOffice)**
 * _Submission (12pt. always)_
-  - Text body (all Times New Roman-like): TeX Gyre Termes or Liberation Serif or Croscore Tinos
-  - For headings, these fonts nicely compliment: TeX Gyre Pagella (Palantino-like), TeX Gyre Heros
-  (Helvetica-like), Overpass, or Crosextra Carlito (Calibri-like). But until you
-  know your agent / publisher, ***stick to one font: Termes or Liberation Serif or Croscore Tinos.***
-  - If they want Arial/Helvetica, text body: Tex Gyre Heros or Liberation Sans or Croscore Arimo
+  - Text body: TeX Gyre Termes (second choice Croscore Tinos)
+    - For editors who want Arial: Croscore Arimo
+    - For editors who want Helvetica: Tex Gyre Heros
+    - For editors who want Calibri: Crosextra Carlito
+    - For editors who want Courier (crazy people!): TeX Gyre Cursor or Noto Mono
+  - Heading and Frontmatter: Surprise! Use the same font for everything.
 * _Publishing_
   - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Text
-  - Headings: TeX Gyre Pagella, Overpass, Crosextra Carlito, Montserrat, or Avería Sans (or Serif) Libre (the Avería fonts are almost too unique).
+  - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans (or Serif) Libre (the Avería fonts are almost too unique).
 
 **For print (Google Docs)**
-* Submission (12pt. always): Tinos and _maybe_ Quicksand for headings
-* Publishing: Don't use Google Docs for documents targeting publication.
+* Submission (12pt. always): Croscore Tinos (or, see above: Arimo, Carlito, or Noto Mono)
+* Publishing: Don't use Google Docs for documents targeting publication except maybe short essays or flash fiction and then only if the text doesn't need to be justified (and therefore properly hyphenated).
 
 **For the web:** I maintain three websites using these fonts:
 1. <!--tf-->Text: Cardo and Fira Mono / Headings: Fira Sans Book
-2. <!--tr-->Text: Crimson Text / Headings: Fira Sans Book
+2. <!--tr-->Text: Crimson Text and Fira Mono / Headings: Fira Sans Book
 3. <!--er-->Text: Libre Caslon Text and Fira Mono / Headings: Avería Sans Libre<br />
-   Used for select blog posts: Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor
+   Used for select blog posts (not inclusive): Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor, Overpass, Overpass Mono
 
 ## Fonts: Draft &#x27F6; Submission
-https://tandem.realty/
+
 ### The big three: Times New Roman, Courier New, and Arial/Helvetica
 
 **Times New Roman.** Times is a proportional serif font for which writers, editors, everyone have settled on as _the_ default standard for submission. Or just about everyone. And heck, even if self-publishing, Times is a safe and reliable font choice for your book as well. Times is a readable and reasonably attractive font.
 
-**Courier New.** Courier is a monospace serif font that _used_ to be the choice for drafting and submission. Typewriters produced documents in courier font, therefore, manuscripts were expected in that format. Only recently has this legacy font died off as the preferred choice of editors. We no longer use typewriters nor do we submit hard-copy manuscripts. Even that Luddite of Luddites, Wendell Berry, submits a manuscript to his publisher in digital format. He handwrites his manuscripts (in pencil) and then his wife types it up on a typewriter, then they pay someone to enter it into a word processor which then gets submitted to his agent/publisher electronically. There may be some editor out there that still prefers your manuscript be submitted in a monospaced serif font, but it's highly unlikely.
+**Courier New.** Courier is a monospace serif font that _used_ to be the standard for drafting and submission. Typewriters produced documents in courier font; therefore, manuscripts were expected to be submitted in that format. Only recently has this legacy font died off as the preferred choice of editors. We no longer use typewriters nor do we submit hard-copy manuscripts. Even that Luddite of Luddites, Wendell Berry, submits a manuscript to his publisher in digital format. He handwrites his manuscripts (in pencil) and then his wife types it up on a typewriter, then they pay someone to enter it into a word processor which then gets submitted to his agent/publisher electronically. There may be some editor out there that still prefers your manuscript be submitted in a monospaced serif font, but it's highly unlikely.
 
-**Arial/Helvetica** Rumor has it that some editors prefer the copy be in a sans-serif font. They are crazy people, but if so, Arial (or Helvetica) is the typical choice.
+**Arial/Helvetica** Rumor has it that some editors prefer the copy be in a sans-serif font. They are crazy people, but if so, Arial (or Helvetica or Calibri) is the typical choice.
 
-Times New Roman®, Courier New, Arial®, Helvetica®, etc. are trademarked brand names for a certain set of designs. Designs where the type foundries that own them (Monotype for most of these) essentially have a proprietary lock on, if not the design, the trademark (note, Courier New is somehow different in a way I don't understand).
+Times New Roman®, Courier New, Arial®, Helvetica®, Calibri®, etc. are trademarked brand names for a certain set of designs. Designs where the type foundries that own them (Monotype for most of these) essentially have a proprietary lock on, if not the design, the trademark (note, Courier New is somehow different in a way I don't understand).
 
 To agents and editors, _Times New Roman_® is to default serif font as _Kleenex®_ is to nasal tissue. What they are really asking for is a highly readable, cleanly designed font that isn't distracting.
 
@@ -81,10 +82,13 @@ But even more can be found at or [Open Font Library](https://fontlibrary.org/), 
 
 And with that, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives include&nbsp;.&nbsp;.&nbsp;.
 * Times New Roman &#x27F6; Liberation Serif, TeX Gyre Termes, Croscore Tinos
-* Courier New &#x27F6; Croscore Cousine (sans), Nimbus Mono PS, Noto Mono, TeX Gyre Cursor
-* Arial &#x27F6; Croscore Arimo, Liberation Sans, TeX Gyre Heros
+* Courier New &#x27F6; TeX Gyre Cursor, Nimbus Mono PS, Noto Mono  
+  Courier New (but sans) &#x27F6; Croscore Cousine
+* Arial &#x27F6; Croscore Arimo, Liberation Sans  
+  Helvetica &#x27F6; TeX Gyre Heros  
+  Calibri &#x27F6; Crosextra Carlito
 
-> **In short: for submission of a manuscript, choose Liberation Serif, Termes, or Tinos unless you are asked to do otherwise.**
+> _In short: for submission of a manuscript, choose Liberation Serif, Termes, or Tinos unless you are asked to do otherwise._
 
 **Installation on Fedora 32**
 ```
@@ -221,7 +225,8 @@ Fonts can lead you down a path of darkness and sorrow. Be careful out there. Jus
 —Todd Warner <todd@errantruminant.com>
 
 
-----
+---
+---
 ## <center>Addendum</center>
 
 ### Where to find certain fonts and how to install them
@@ -239,23 +244,21 @@ sudo dnf install texlive-tex-gyre* google-croscore-* google-crosextra-* google-n
 
 **Website availability:**
 
-All but the TeX fonts are easy to use for any website. Just use [Google Fonts](https://fonts.google.com/) or [Open Font Library](https://fontlibrary.org/). The liberation fonts for the web are not well organized. Use the Croscore fonts instead or one of the others.
+All but the TeX fonts are easy to use for any website. Just use [Google Fonts](https://fonts.google.com/) or [Open Font Library](https://fontlibrary.org/). The liberation fonts for the web (at open font library) leave more for the developer to do (you may have develop your own `@font-face` CSS). Maybe use the Croscore fonts instead or one of the others.
 
 ```
 <!-- HTML -->
+<!-- liberation sans and serif -->
 <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/liberation-sans" type="text/css"/>
- <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/liberation-serif" type="text/css"/>
+<!-- Tinos (a Croscore font) -->
+<link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 ```
 
 Example usage:
 ```
 /* CSS */
 XXX {
-  font-family: 'LiberationSansRegular';
-  font-weight: normal;
-  font-style: normal;
-}
-XXY {
   font-family: 'Tinos', serif;
 }
 ```
@@ -346,3 +349,46 @@ Usage (web):
 /* CSS */
 xxx { font-family: Cardo, serif; }
 ```
+
+#### Avería
+
+Avería is a wickedly cool set of fonts. [The designer][averiawebsite] essentially developed the fonts by averaging many popular fonts and .&nbsp;.&nbsp;. boom! Avería was born. It makes for a smooshy, but attractive print that looks good for many things, but will not be right for all projects. I particularly like the font for headings, though for text it looks interesting as well.
+
+[averiawebsite]: http://iotic.com/averia/ "Designer's Website for Avería"
+
+**For Desktop:**
+* Download the fonts from https://fonts.google.com/specimen/Averia+Serif+Libre and https://fonts.google.com/specimen/Averia+Sans+Libre
+* Then ...  
+  ```
+  cd ~/.fonts/
+  mkdir averia ; cd averia
+  mkdir serif sans
+  mv ~/Download/Averia_Serif_Libre.zip ./serif/
+  mv ~/Download/Averia_Sans_Libre.zip ./sans/
+  unzip ./serif/Averia_Serif_Libre.zip  -d ./serif/
+  unzip ./sans/Averia_Sans_Libre.zip  -d ./sans/
+  fc-cache -vfr
+  ```
+
+**For the web:**  
+
+```
+<!-- HTML -->
+<link href="https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+```
+
+```
+/* CSS */
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+```
+
+Usage (web):
+```
+/* CSS */
+XXX { font-family: 'Averia Serif Libre', serif; }
+XXY { font-family: 'Averia Sans Libre', sans-serif; }
+```
+
+The fonts can also be found here: [serif](https://fontlibrary.org/face/averia-serif) and [sans serif](https://fontlibrary.org/face/averia-sans)

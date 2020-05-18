@@ -1,0 +1,35 @@
+/*
+ * Todd Warner, 2020
+ * CC BY-SA: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+ * I don't claim this is done exactly right. Please send me comments if this can be improved.
+ * Pulling from Open Font Library.
+ */
+
+@font-face {
+    font-family: 'Liberation Serif';
+    src: local('LiberationSerifBold'), url('https://fontlibrary.org/assets/fonts/liberation-serif/8441fba06ba472d4a7fa83be86010416/4b73a82dc5deac9ad4629778d2d4c7c5/LiberationSerifBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'Liberation Serif';
+    src: local('LiberationSerifBoldItalic'), url('https://fontlibrary.org/assets/fonts/liberation-serif/8441fba06ba472d4a7fa83be86010416/e7a42c00ab241df4dd6b4da3c6d17fa4/LiberationSerifBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Liberation Serif';
+    src: local('LiberationSerifItalic'), url('https://fontlibrary.org/assets/fonts/liberation-serif/8441fba06ba472d4a7fa83be86010416/fcdf9312f9dad73567b40005e8c1b943/LiberationSerifItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Liberation Serif';
+    src: local('LiberationSerifRegular'), url('https://fontlibrary.org/assets/fonts/liberation-serif/8441fba06ba472d4a7fa83be86010416/ff12ad264cc906880489f7544848edf4/LiberationSerifRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+

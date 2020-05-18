@@ -1,0 +1,35 @@
+/*
+ * Todd Warner, 2020
+ * CC BY-SA: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+ * I don't claim this is done exactly right. Please send me comments if this can be improved.
+ * Pulling from Open Font Library.
+ */
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: local('LiberationSansBold'), url('https://fontlibrary.org/assets/fonts/liberation-sans/2b246ab94ea322ca5282dfd1a39c36ec/0e438c676ba336fb23d9cf3b374d438f/LiberationSansBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: local('LiberationSansBoldItalic'), url('https://fontlibrary.org/assets/fonts/liberation-sans/2b246ab94ea322ca5282dfd1a39c36ec/09b9faedf75a7d8dc2edd32da92f6701/LiberationSansBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: local('LiberationSansItalic'), url('https://fontlibrary.org/assets/fonts/liberation-sans/2b246ab94ea322ca5282dfd1a39c36ec/ae4ebf63714b0cecdc4e1d79120f9b02/LiberationSansItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'Liberation Sans';
+    src: local('LiberationSansRegular'), url('https://fontlibrary.org/assets/fonts/liberation-sans/2b246ab94ea322ca5282dfd1a39c36ec/bbbd0bdbfba093dec2ee4ca8b62e61f9/LiberationSansRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
