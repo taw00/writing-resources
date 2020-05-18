@@ -244,21 +244,36 @@ sudo dnf install texlive-tex-gyre* google-croscore-* google-crosextra-* google-n
 
 **Website availability:**
 
-All but the TeX fonts are easy to use for any website. Just use [Google Fonts](https://fonts.google.com/) or [Open Font Library](https://fontlibrary.org/). The liberation fonts for the web (at open font library) leave more for the developer to do (you may have develop your own `@font-face` CSS). Maybe use the Croscore fonts instead or one of the others.
+All but the TeX fonts are easy to use for any website. Just use [Google Fonts](https://fonts.google.com/) or [Open Font Library](https://fontlibrary.org/). Please note that the CSS for the liberation fonts as configured by Open Font Library made them relatively inflexible. I redid the CSS and include it here for your convenience.
 
 ```
 <!-- HTML -->
 <!-- liberation sans and serif -->
-<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/liberation-sans" type="text/css"/>
-<link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/liberation-serif" type="text/css"/>
+<link rel="stylesheet" media="screen" href="https://raw.githubusercontent.com/taw00/writing-resources/master/Artifacts/css/toddwarner-font-sans-liberation.css" type="text/css"/>
+<link rel="stylesheet" media="screen" href="https://raw.githubusercontent.com/taw00/writing-resources/master/Artifacts/css/toddwarner-font-serif-liberation.css" type="text/css"/>
 <!-- Tinos (a Croscore font) -->
 <link href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 ```
 
-Example usage:
+Or . . .
+
 ```
 /* CSS */
-XXX {
+/* liberation sans and serif */
+@import url("https://raw.githubusercontent.com/taw00/writing-resources/master/Artifacts/css/toddwarner-font-sans-liberation.css");
+@import url("https://raw.githubusercontent.com/taw00/writing-resources/master/Artifacts/css/toddwarner-font-serif-liberation.css");
+/* Tinos (a Croscore font) */
+@import url("https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+```
+
+Example configuration (web):
+```
+/* CSS */
+p, .libserif {
+  font-family: 'Liberation Serif', serif;
+}
+
+.tinosserif {
   font-family: 'Tinos', serif;
 }
 ```
@@ -294,13 +309,15 @@ sudo dnf install fira-code-fonts mozilla-fira-*
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css">
 ```
 
+Or . . .
+
 ```
 /* CSS */
 @import url(https://code.cdn.mozilla.net/fonts/fira.css);
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css);
 ```
 
-Example usage (CSS — alter your css as needed):
+Example configuration (web):
 ```
 p { font-family: 'Fira Sans', sans-serif; }
 code { font-family: 'Fira Code', monospace; }
@@ -339,15 +356,17 @@ _Just use the dated Google fonts. They are not noticeably different to me._
 <link href="https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 ```
 
+Or . . .
+
 ```
 /* CSS */
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap');
 ```
 
-Usage (web):
+Example configuration (web):
 ```
 /* CSS */
-xxx { font-family: Cardo, serif; }
+p { font-family: Cardo, serif; }
 ```
 
 #### Avería
@@ -378,17 +397,19 @@ Avería is a wickedly cool set of fonts. [The designer][averiawebsite] essential
 <link href="https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
 ```
 
+Or . . .
+
 ```
 /* CSS */
 @import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 ```
 
-Usage (web):
+Example configuration (web):
 ```
 /* CSS */
-XXX { font-family: 'Averia Serif Libre', serif; }
-XXY { font-family: 'Averia Sans Libre', sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Averia Sans Libre', sans-serif; }
+p { font-family: 'Averia Serif Libre', serif; }
 ```
 
 The fonts can also be found here: [serif](https://fontlibrary.org/face/averia-serif) and [sans serif](https://fontlibrary.org/face/averia-sans)
