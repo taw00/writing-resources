@@ -10,8 +10,8 @@ Included here are some LibreOffice Templates for both the short story and novel.
 
 Install these LibreOffice templates into `~/Templates` (Fedora Linux), and restart LibreOffice.  
 
-* [Manuscript, Novel.ott](./Manuscript%2C%20Novel.ott)
-* [Manuscript, Short Story.ott](./Manuscript%2C%20Short%20Story.ott)
+* [manuscript-novel.ott](./manuscript-novel.ott)
+* [manuscript-short-story.ott](./manuscript-short-story.ott)
 
 > _(Note: The default template location is set in LibreOffice in Tools > Options
 > LibreOffice > Paths. If your preferred location is not there, add it at the
