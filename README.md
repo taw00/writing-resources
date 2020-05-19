@@ -1,20 +1,25 @@
 # Writing Resources
 
-_**On writing with predominantly open source software and inexpensive cloud services.**_
+_**On writing with open-source software and inexpensive cloud services.**_
 
 I write.
 
 I write short stories, novels, and poetry. I blog. I freelance write and edit and I have contributed to online news outlets and such in the past. I sometimes collaborate with others.
 
-I do all this with [Fedora Linux](https://getfedora.org/) as my desktop platform and by leveraging inexpensive cloud services. Over time I have adopted patterns, configurations, and technologies that have made my life easier. I figured others might benefit from my experiences, and maybe others have contributions they would like to share as well. Thus, this GitHub repo was born.
+I do all this as a [Fedora Linux](https://getfedora.org/) desktop user and by leveraging inexpensive cloud services. Over time I have adopted patterns, configurations, and technologies that have made my life easier. I figured others might benefit from my experiences, and maybe others have contributions they would like to share as well. Thus, this GitHub repo was born.
 
 > Assumption:  
-> Most of what I provide here is operating system neutral, but I do drop bits of technical instruction here and there, and most of that will be Fedora Linux specific. My assumption is that you will be able to pick through it and figure out what makes sense to you and discard what does not. Also, if software does not run on Fedora Linux or the cloud, I will probably discuss it (see below).
+> Most of what I provide here is operating system neutral, but I do drop bits of
+> technical instruction here and there, and most of that will be Fedora Linux
+> specific. My assumption is that you will be able to pick through it and figure
+> out what makes sense to you and discard what does not. Also, if software does
+> not run on Fedora Linux or the cloud, I will probably discuss it (see below).
 
 ## What's in this GitHub repo?
 
-* [Documents](./Documents): tips-n-tricks, configurations, howtos, etc.
-* [Artifacts](./Artifacts): templates, examples, all in support of the stuff in the Documents folder.  
+* [Documents](./Documents): howtos, tips-n-tricks, configurations, etc.
+* [Artifacts](./Artifacts): templates, examples, css, all in support of the
+  stuff in the Documents folder.  
 
 ## What's _not_ in this GitHub repo?
 

@@ -1,97 +1,72 @@
-# LibreOffice for Manuscript Formatting and development
+# Using LibreOffice for Manuscript Formatting and Development
 
-LibreOffice works well for manuscript submission. It can track changes and save to .docx or .odt, two formats that most publishing houses prefer.
+LibreOffice works well for manuscript submission. It can track changes and save to .docx or .odt, two formats that most publishing houses accept and prefer.
 
-#### Relevant artifacts
+### Relevant artifacts
 
 _Templates_
-- `Manuscript, Short Story.ott`
-- `Manuscript, Novel.ott`
+- Short Story: [manuscript-short-story.ott](../Artifacts/LibreOffice/manuscript-short-story.ott)
+- Novel: [manuscript-novel.ott](../Artifacts/LibreOffice/manuscript-novel.ott)
 
-_Examples_
-- `libreoffice-manuscript-short-story-example.odt` and  
-  `libreoffice-manuscript-short-story-example.pdf`
-- `libreoffice-manuscript-novel-example.odt` and  
-  `libreoffice-manuscript-novel-example.pdf`
+_Example documents based on those templates_  
 
-XXXXXXXXXX still editing XXXXXXXXXX
+&emsp;Short Story example
+* ODT: [libreoffice-manuscript-novel-example.odt](../Artifacts/LibreOffice/libreoffice-manuscript-novel-example.odt)
+* PDF: [libreoffice-manuscript-novel-example.pdf](../Artifacts/LibreOffice/libreoffice-manuscript-novel-example.pdf)
 
-# LibreOffice Templates
+&emsp;Novel example
+* ODT: [libreoffice-manuscript-short-story-example.odt](../Artifacts/LibreOffice/libreoffice-manuscript-short-story-example.odt)
+* PDF: [libreoffice-manuscript-short-story-example.pdf](../Artifacts/LibreOffice/libreoffice-manuscript-short-story-example.pdf)
 
-Included here are some LibreOffice Templates for both the short story and novel.
+## The LibreOffice Templates
 
-## Manuscript templates (for submissions)
+The templates relatively closely follow William Shunn's excellent formatting guidance which can be found here: <https://format.ms/story>, or here: <https://www.shunn.net/format/story/>.
 
-### The templates:
+Just copy the `.ott` files into your `$HOME/Templates/` directory (Fedora Linux's default location, your system defaults may vary) and restart LibreOffice.
 
-Install the templates into `~/Templates` (Fedora Linux), and they will then be available for use.  
+The templates should be now listed all options in File > Templates in LibreOffice. In this case they will be listed as `Manuscript, Novel` and `Manuscript, Short Story`.
 
-* [Manuscript, Novel.ott]
-* [Manuscript, Short Story.ott]
+If you don't see the templates listed, check your template paths setting in Tools > Options > LibreOffice > Paths.
 
-> _(Note: The default template location is set in LibreOffice in Tools > Options
-> LibreOffice > Paths. If your preferred location is not there, add it at the
-> end of a path with `;/home/username/Templates` as an example)_
+## Starting a new manuscript
+
+File > New > Templates&nbsp;.&nbsp;.&nbsp;. and then select which template you want to use.
+
+You can also do the same from File > Templates > Manage > double-click on desired template&nbsp;.&nbsp;.&nbsp;.
+
+Save the document to something other than Untitled. Maybe in the common format of `YOURLASTNAME-SHORTTITLE.odt` or `YOURLASTNAME.SHORTTITLE.odt`
+
+## Starting a new manuscript but from an existing document
+
+Follow the "new manuscript instructions" above and then you will have to do some brute force cutting and pasting into the document from your other document. There is no way around this. Even if your existing story is saved as a LibreOffice document, there is no way to select a template and then apply it to the existing document. You have to start fresh and cut and paste into it. It's really not that bad. Just tedious.
+
+## Using the templates
+
+First make sure the style panel is open (usually on the right). F11 or View > Styles is how you make sure it is open.
+
+Next open the Navigator panel (F5 or View > Navigator). If it is not on the right side, dock it there by dragging the window to a place next to the Styles panel.
+
+**The relevant customized styles**
+* _Headings_ > .&nbsp;.&nbsp;.
+  - Title
+  - _Novel|Story Headings_ > .&nbsp;.&nbsp;.
+    - ByLine
+    - Chapter and Chapter, nonbreaking
+    - Part
+    - Scene
+    - Subscene
+    - Thirty
+* Text Body > .&nbsp;.&nbsp;.
+  - First Line indent
+  - _Novel|Story Additional Text styles_ > .&nbsp;.&nbsp;.
+    - Frontmatter
+    - Frontmatter, footer
 
 
-### Examples:
+**Fonts**
 
-Install the above templates first, then open these in LibreOffice.
+The template and example LibreOffice Writer documents have the TeX Gyre Termes font embedded in them. Or should. Regardless, make sure that font is installed: `sudo dnf install texlive-tex-gyre -y`
 
-Short Story example
-* ODT: [libreoffice-manuscript-novel-example.odt]()
-* PDF: [libreoffice-manuscript-novel-example.pdf]()
-Novel example
-* ODT: [libreoffice-manuscript-short-story-example.odt]()
-* PDF: [libreoffice-manuscript-short-story-example.pdf]()
+That should be enough for you go get started. Save often. If an editor asks you to submit a `.docx` file, ask if they'll take an `.odt` instead. They will likely say yes. If not, just convert it to `.docx` when you submit it: File > Save As... > change document type to 'Word 2007-365 (.docx)' and Save.  If you want to create a PDF for beta-readers and whatnot, File > Export As > Export as PDF.
 
-Read carefully the comments. There are a couple things you need to know:
-1. Most Novel/Story styles are listed under two parent styles in the "Styles
-   and Formatting" manager widget: `Styles > Manage Styles(F11)`. Look for
-   `Heading > Novel|Story Heading` and `Novel|Story Special-Cased Text`
-2. Review the styles in use: `Frontmatter` and `Frontmatter, footer`; `Title`;
-   `ByLine`; `Default Style` and `Default Style, noindent`; `Part`; `Chapter`
-   and `Chapter, nonbreaking`; `Scene`; `Subscene`
-   - `Part` and `Chapter` will start a new page and pad 2 inches from the top.
-   - `Chapter, nonbreaking` will not start a new page and pad 2 inches. It is
-     used if you want to create a chapter header right after a `Part`. You
-     don't want to create two pages. In that case. See my example with Part 1 and I.
-     (a Chapter).
-   - `Part`; `Chapter` and `Chapter, nonbreaking`; `Scene` and `Subscene` will
-     create a `Default Style, noindent` paragraph as soon as you hit enter.
-     Traditionally, there is no indent after one of those header elements. And then
-     all the rest of the paragraphs should be merely `Default Style` which does
-     auto-indent.
-3. Font: _TexGyreTermes_ is the default. The fonts are embedded in the examples and the templates, but install the fonts on your system: `sudo dnf install texlive-tex-gyre -y`  
-   _Liberation Serif_ is another _Times New Roman_ -type font, but
-   _TexGyreTermes_ is, IMHO, a better option. I will talk about fonts more
-   elsewhere.  
-   Fonts are set in _Tools_ > _Options_ > _LibreOffice Writer_ > _Basic Fonts (Wester)__
-4. Note how the Fields are used to populate a lot of the metadata for the document. There are three primary places that metadata are stored:
-   - _Tools_ > _Options_ > _LibreOffice_ > _User Data_
-   - _File_ > _Properties_ > . . .
-     - _File_ > _Properties_ > _General_ > [press Reset Properties] — press that when you change the name in the _User Data_ above.
-     - _File_ > _Properties_ > _Description_
-   - Fields: CTRL-F2 _-or-_ _Insert_ > _Fields_ > _More Fields_  — Customized fields include:
-     - AddressLine1 and AddressCityStateZip
-     - Phone and EmailAddress
-     - DateMMMMYYYY
-     - PenName (used for the byline)
-     - PenNameCoAuthor (I didn't provide an example, but you can figure it out)
-     - WordCount
-     - Audience and Genre
-     - DocumentVersion string
-     - Surname and RunningTitle (for the header, a shorter title)
-     - Thirty (the "The End" string)
-5. The trickiest bit: If you mess with that first Part 1 the wrong way, you
-   will end up with the wrong page number in the header. I can't explain it,
-   but you will just have to be careful and backout any mistakes and try again.
-
-That should get you started. Make a copy and play with the format. It should be relatively straight forward.
-
----
----
-
-## Publish-ready templates (for self-publishing)
-
-I don't have published book ebook and ePub templates yet.
+Good luck!

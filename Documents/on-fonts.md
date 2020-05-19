@@ -1,12 +1,12 @@
 # On Fonts
 
-### Settling on a set of fonts is hard
+### Settling on a set of fonts for a project is hard
 
-There are a zillion different fonts. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a webpage look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but terrible in the text body.
+There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a webpage look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but terrible in the text body.
 
-We have all wasted countless hours trying one font and then another and then another. The more the success of a project hinges on how it looks and feels, the more difficult the choice. The more permanent—for printed material for example—the choice becomes truly challenging.
+We have all wasted countless hours trying one font and then another and then another. The more look-and-feel is important to a project, the more difficult the choice. The more the font selection will linger—for example, with printed material—the choice becomes truly challenging.
 
-Choosing a font for your project is a gigantic topic. But for our purposes, in this document, we are focused on the needs of the writer, and not the needs of an advertiser, designer, or graphic artist.
+The purpose of this document is to discuss the typeface (font) needs of the writer. Font selection in the general sense will be touched upon, but that is a large topic and will not be fully explored here. Therefore, we will not be, for example, focusing on the needs of the advertiser, designer, or graphic artist.
 
 _**Developmental writing**_
 
@@ -18,7 +18,7 @@ _**Publishing**_
 
 If you self-publishing (printed, ebook, ePub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
 
-## TL;DR: the fonts I use
+## TL;DR: The Fonts I Use
 
 > **Spoiler alert!**
 >
@@ -36,27 +36,28 @@ We'll discuss all kinds of fonts here in a second, but to keep things grounded, 
   - Heading and Frontmatter: Surprise! Use the same font for everything.
 * _Publishing_
   - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Text
-  - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans (or Serif) Libre (the Avería fonts are almost too unique).
+  - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans/Serif Libre (the Avería fonts are almost too unique).
 
 **For print (Google Docs)**
-* Submission (12pt. always): Croscore Tinos (or, see above: Arimo, Carlito, or Noto Mono)
-* Publishing: Don't use Google Docs for documents targeting publication except maybe short essays or flash fiction and then only if the text doesn't need to be justified (and therefore properly hyphenated).
+* _Submission (12pt. always):_ Croscore Tinos (or, see above: Arimo, Carlito, or Noto Mono)
+* _Publishing:_ Don't use Google Docs for documents targeting publication except maybe short essays or flash fiction and then only if the text doesn't need to be justified (and therefore properly hyphenated).
 
-**For the web:** I maintain three websites using these fonts:
+**For the web**  
+I maintain three websites using these fonts (they change a bit frequently):
 1. <!--tf-->Text: Cardo and Fira Mono / Headings: Fira Sans Book
 2. <!--tr-->Text: Crimson Text and Fira Mono / Headings: Fira Sans Book
 3. <!--er-->Text: Libre Caslon Text and Fira Mono / Headings: Avería Sans Libre<br />
-   Used for select blog posts (not inclusive): Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor, Overpass, Overpass Mono
+   Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor, Overpass, Overpass Mono
 
 ## Fonts: Draft &#x27F6; Submission
 
-### The big three: Times New Roman, Courier New, and Arial/Helvetica
+### The big three:<br />&emsp;Times New Roman, Courier New, and Arial/Helvetica
 
 **Times New Roman.** Times is a proportional serif font for which writers, editors, everyone have settled on as _the_ default standard for submission. Or just about everyone. And heck, even if self-publishing, Times is a safe and reliable font choice for your book as well. Times is a readable and reasonably attractive font.
 
 **Courier New.** Courier is a monospace serif font that _used_ to be the standard for drafting and submission. Typewriters produced documents in courier font; therefore, manuscripts were expected to be submitted in that format. Only recently has this legacy font died off as the preferred choice of editors. We no longer use typewriters nor do we submit hard-copy manuscripts. Even that Luddite of Luddites, Wendell Berry, submits a manuscript to his publisher in digital format. He handwrites his manuscripts (in pencil) and then his wife types it up on a typewriter, then they pay someone to enter it into a word processor which then gets submitted to his agent/publisher electronically. There may be some editor out there that still prefers your manuscript be submitted in a monospaced serif font, but it's highly unlikely.
 
-**Arial/Helvetica** Rumor has it that some editors prefer the copy be in a sans-serif font. They are crazy people, but if so, Arial (or Helvetica or Calibri) is the typical choice.
+**Arial/Helvetica.** Rumor has it that some editors prefer the copy in a sans-serif font. They are crazy people, but if so, Arial (or Helvetica or Calibri) is the typical choice.
 
 Times New Roman®, Courier New, Arial®, Helvetica®, Calibri®, etc. are trademarked brand names for a certain set of designs. Designs where the type foundries that own them (Monotype for most of these) essentially have a proprietary lock on, if not the design, the trademark (note, Courier New is somehow different in a way I don't understand).
 
@@ -68,9 +69,9 @@ Linux users don't typically have these name-brand fonts installed. In fact, for 
 
 Boy things have changed!
 
-Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft) or really hybrid open and closed source platforms. The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier New, and Arial/Helvetica.
+Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft) or really hybrid open and closed source platforms. The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier New, and Arial. Even Helvetica and Calibri.
 
-Today, the available variety of fonts is vast and of high quality. Especially for latin-based languages.
+Today, the available variety of fonts is vast and of high quality. Especially in support of latin-based languages.
 
 For linux, many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
 
@@ -158,17 +159,17 @@ _**Monospace Serif fonts**_
 
 Serif fonts can be further classified: Old-style, Transitional, Didone, Slab serif, and more. We won't discuss such nuance here.
 
-#### Sans-Serif
+#### Sans Serif
 
 Fonts that are literally _sans_, or without, serif. They don't have extra decorators at the end of the stokes that define them. They can, TeX Gyre Schola (Century Schoolbook-like) be, similarly to serif fonts, proportional or monospace.
 
 > For print, sans-serif fonts are best used for headers or blocks of specialized text mixed in with serif text. In this way the sans-serif text acts as a complementary but differentiating typeface.
 
-_**Proportional Sans-Serif fonts**_
+_**Proportional sans-serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Metrically Compatable<br/><span style="font-size: 75%;">to Arial</span> | Other Sans-Serif<br/><span style="font-size: 75%;">like Calibri, Helvetica, etc.</span> |  |
+| Metrically Compatable<br/><span style="font-size: 75%;">to Arial</span> | Other Sans Serif<br/><span style="font-size: 75%;">like Calibri, Helvetica, etc.</span> |  |
 | -- | -- | -- |
 | ❤ _Arimo (Croscore Arimo)_ | Adventor (TeX Gyre Adventor)<br/><span style="font-size: 50%;">(like Avant Garde Gothic)</span> | ❤ _Montserrat_ |
 | Liberation Sans | ❤ _Avería Sans Libre_ | ❤ _Overpass_ |
@@ -179,13 +180,13 @@ _**Proportional Sans-Serif fonts**_
 
 </div>
 
-_**Monospace Sans-Serif fonts**_
+_**Monospace sans-serif fonts**_
 
 > Note: many monospaced fonts are sans-serif-ish or serif-ish. You could lump them all together and judged them as something in between.
 
 <div style="font-size: 75%;">
 
-| Metrically Compatable<br/><span style="font-size: 75%;">to Courier New (but Sans)</span> | Other Mono-Sans<br/><span style="font-size: 75%;">like Menlo, SF Mono, Consolas, etc.</span> |
+| Metrically Compatable<br/><span style="font-size: 75%;">to Courier New (but Sans)</span> | Other Mono Sans<br/><span style="font-size: 75%;">like Menlo, SF Mono, Consolas, etc.</span> |
 | -- | -- |
 | Cousine<br/><span style="font-size: 50%;">(Croscore family)</span> | Comfortaa |
 | DejaVu Sans Mono | ❤ _Fira Mono_ |
@@ -201,7 +202,7 @@ _**Monospace Sans-Serif fonts**_
 Cursive. There's a whole group of fonts that mimic hand-printed text, scripted text, and calligraphy. These fall into what some call the "cursive" font grouping. It's a terrible category name, but it hints at what may be included.
 
 _**Cursive examples:**_  
-TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka, Blokletters Viltstift (comic sans-like)
+TeX Gyre Choral (Zapf Chancery-like), Architects Daughter, Steve Hand, SMonohand, Grand Hotel, Serafettin Cartoon, Isabella, Chilanka, Blokletters Viltstift (Comic Sans-like)
 
 Other character fonts. There a lot of subcategories that I am not going to spell out, but for now we'll call them "other." Art decco, block-characters .&nbsp;.&nbsp;. all those characters that are text but very specialized and not organic (hand-written).
 
@@ -212,12 +213,14 @@ Symbols. Glyphs and images that aren't letters. Emoji. Dingbats. And more. Usefu
 
 ## Whew!
 
-Once you have whittled down the fonts that interest you&nbsp;.&nbsp;.&nbsp;.
-* Use at most two or three complementary fonts (books and websites). For a manuscript, a single font (a Times New Roman equivalent) is ideal.  
-  Check out the [FontPair website](https://fontpair.co/) for ideas and inspiration.
-* If it is a webpage: Zoom in and out; stretch the window; make it tall; print the webpage. What happens?
-* If it is a manuscript: Print a handful of pages for each candidate font and look at them and consider: Does the font disappear from my attention when I read the page? Is it easy to read? Print a 12pt Times New Roman comparable and make sure the font size is roughly the same and the double-spacing for each are adequate.
-* If it is a book: Print out a handful of pages for each candidate font and compare them to books from your bookshelf. Again, are they attractive _and_ non-distracting? Does the tone of each font fit the genre of your writing? What do other books in your genre use for their fonts, both headings and body text? And don't forget to compare your frontmatter with the frontmatter of other books.
+In conclusion, once you have whittled down the fonts that interest you&nbsp;.&nbsp;.&nbsp;.
+* Keep the number of fonts to a minimum
+  - For a manuscript (submission), and with no other guidance from the editor, use only a single font (a Times New Roman equivalent) is ideal.
+  - For books and websites (published), use _at most_ two or three complementary fonts. Check out this [font pairing website](https://fontpair.co/) for ideas and inspiration.
+* Test your fonts
+  - For a manuscript, print a handful of pages for each candidate font and look at them and consider: Does the font disappear from my attention when I read the page? Is it easy to read? Print a 12pt Times New Roman comparable and make sure the font size is roughly the same and the double-spacing for each are adequate.
+  - For a book, print out a handful of pages for each candidate font and compare them to books from your bookshelf. Again, are they attractive _and_ non-distracting? Does the tone of each font fit the genre of your writing? What do other books in your genre use for their fonts, both headings and body text? And don't forget to compare your frontmatter with the frontmatter of other books.
+  - For a webpage, deploy your font selection and then zoom in and out, stretch the window, make it tall, print the webpage. What happens?
 
 &nbsp;  
 Fonts can lead you down a path of darkness and sorrow. Be careful out there. Just make sure you are happy with the fonts you have chosen. Good luck!
