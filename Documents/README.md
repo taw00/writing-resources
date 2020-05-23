@@ -8,3 +8,4 @@
   - [How to Format a Manuscript for a Novel or Short Story or Poetry](howto-format-manuscript-fiction.md)
   - [Using LibreOffice for Manuscript Formatting and Development](howto-manuscript-libreoffice.md)
   - [Using Google Docs for Manuscript Formatting and Development](https://drive.google.com/open?id=1VHZiNtNyCqU3BOJG7sGdywo_8Ag2DcUL)
+  - [How I use Joplin](howto-joplin.md) as my workhorse writing development platform.
