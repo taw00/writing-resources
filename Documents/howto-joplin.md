@@ -19,48 +19,83 @@ These are the features that attracted me to Joplin:
 
 ## How I Use Joplin
 
-I'm not going to detail out how to use Joplin completely, but this is what I do as a writer. I build out a structure for each project that looks something like this:
-* Project 1 - Story Title
-  - 00 Manuscript  
-    _<small>Where all the writing resides: scene by scene.</small>_
-    - Act 1
-      - Scene 1.1 - scene title (these are documents)
-      - Scene 1.2 - scene title
-      - Scene 1.3 - scene title
-      - .&nbsp;.&nbsp;.
-    - Act 2
-      - Scene 2.1 - scene title
-      - Scene 2.2 - scene title
-      - .&nbsp;.&nbsp;.
-    - Act 3
-      - .&nbsp;.&nbsp;.
-  - 01 Research
-    - random things: images, documents, notes, etc.
-  - 02 Outlines
-    - Statements of theme (these are documents)
-    - Premise
-    - Plots and subplot summaries
-    - Other documents associated to outlining
-  - 03 Scene Cards  
-    _<small>Scene by scene summary cards. Could conceivably combine with the written out scenes.</small>_
-    - Act 1
-      - Scene 1.1 (these are documents)
-      - Scene 1.2
-      - Scene 1.3
-      - .&nbsp;.&nbsp;.
-    - Etc.
-  - 04 Characters
-    - Protagonist - Name (these are documents)
-    - Antagonist - Name
-    - Role - Name
-    - Role - Name
-    - etc.
-  - 05 Backstory
-    - World building stuff (these are documents)
-    - Extra character backstory
-* Eventually the scenes development is completed until ready for outside review
-* The text will be transfered to Google Docs or LibreOffice
-* Final copies of the manuscript (LibreOffice or a Google Docs export) and PDFs will eventually land in the Project folder
-* Query letters, everything, ends up in the Project folder. Everything from beginning to end. Probably with additional organizing Notebooks (folders).
+I'm not going to detail out how to use Joplin completely, but this is what I do as a writer. I build out a structure for each project that looks something like this (you can also seem this in the notebook structure template I provide in [the Artifacts folder for Joplin](../Artifacts/Joplin/writing-projects-template/Writing Projects/!README.Writing Projects.md)):
 
-Note that, even through Joplin retains an encrypted copy in Dropbox and an unencrypted copy locally, I regularly make `.jex` backups (of the whole Joplin deployment) and save a copy to the Keybase Filesystem in a private folder.
+
+#### Project 1, Novel — Saeculum
+- !Artifacts
+
+  Manuscripts
+
+  Query Letters
+
+  Final Versions
+
+- 1.0 Manuscript
+	- Act 1
+
+	  Scene 1.1 — Burying a Body
+
+	  Scene 1.2 — A Chance Encounter
+
+	- Act 2
+
+	  Scene 2.1 — Run!
+
+	  Scene 2.1 — A Near Miss
+
+	- Act 3
+
+      Scene 3.x — Some scene title
+
+      Scene 3.y — Some other scene title
+
+- 1.1 Structure
+	- 1.1.0 Outline
+
+	  Themes and Premise
+
+	  Synopsis
+
+	  Three-act structure writeup, or .&nbsp;.&nbsp;.
+
+	  Seven-point storty structure, or .&nbsp;.&nbsp;.
+
+	  Save the Cat beats, or .&nbsp;.&nbsp;.
+
+	  The Snowflake progressive story expansion, or .&nbsp;.&nbsp;.
+
+      Plot Diagrams and Freytag Triangles, or .&nbsp;.&nbsp;.
+
+      .&nbsp;.&nbsp;.
+
+	- 1.1.1 Scene Cards
+		- Act 1
+
+		  Scene Card 1.1 — Burying a Body
+
+	      Scene Card 1.2 — A Chance Encounter (inciting incident)
+
+		- Act 2
+
+	      Scene Card 2.1 — Run!
+
+	      Scene Card 2.1 — A Near Miss (midpoint)
+
+		- Act 3
+
+          Scene Card 3.x — Some scene title
+
+          Scene Card 3.y — Some other scene title
+
+          Scene Card 3.z — They Lived Happily Ever After
+
+- 1.2 Research and Notes
+- ~Trash and Archive
+
+* `Project 1` actually lives (is a sub-notebook) within a notebook called `Writing Projects` and Project 1 is just one project in that notebook.
+* Eventually the scenes development is completed until ready for outside review
+* The text will be transferred to Google Docs or LibreOffice
+* Final copies of the manuscript (LibreOffice or a Google Docs export) and PDFs, query letters, and any other artifacts of the project will eventually land in the Project 1 notebook in the !Artifacts folder (sub-notebook)
+
+Note that, even through Joplin retains an encrypted copy in Dropbox and an unencrypted copy locally, I regularly make `.jex` backups of the whole Joplin deployment and save a copy of that to the Keybase Filesystem in a private folder: File > Export > JEX - Joplin Export File.

@@ -6,7 +6,7 @@ I write.
 
 I write short stories, novels, and poetry. I blog. I freelance write and edit. I am a past contributor to an online news outlet. I sometimes collaborate with others.
 
-But I'm also a advocate for open source software and have for 25 years. My desktop of choice is [Fedora Linux](https://getfedora.org/) and I do all my work using a mix of open source and cloud-based services.
+But I'm also a advocate for open source software and have been for 25 years. My desktop of choice is [Fedora Linux](https://getfedora.org/) and I do all my work using a mix of open source and cloud-based services.
 
 ### Let me share my tools, templates, and how-tos
 
@@ -32,15 +32,29 @@ Write well.<br />
 ## <center>Addendum</center>
 
 ### What's _not yet_ discussed in this GitHub Repo?
-- [LyX](https://en.wikipedia.org/wiki/Lyx), the graphical frontend for [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is the document processing frontend for [TeX](https://en.wikipedia.org/wiki/TeX), the world-class typesetting engine.
-- [Overleaf](https://www.overleaf.com/), an online LaTeX service which looks pretty slick.
-- The [Reedsy Book Editor](https://reedsy.com/write-a-book) for book preparation, in particular ebooks.
-- [WPS Office](https://www.wps.com/), a competitor to LibreOffice.
-- [Zoho Workplace](https://www.zoho.com/workplace/?src=zoho-home&ireft=ohome) is a cloud-based competitor to Google Docs (and so much more). [Zoho](https://www.zoho.com/) offers a TON of tools, primarily aimed at the business community.
-- [Trelby](https://www.trelby.org/) is a neat screenplay composer.
-- [Calibre](https://calibre-ebook.com/) for ebook development. I have heard mixed reviews about this.
-- Services such as [Google Keep](https://keep.google.com/), [Trello](https://trello.com), [Keybase](https://keybase.io) Filesystem ([kbfs](https://book.keybase.io/docs/files)), and even how I use [Signal](https://signal.org/) in my writing process.
-- Image manipulate: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation and Inkscape for vector graphic (svg) development (print-ready images for publication).
+_At least not at length but will likely be expanded upon eventually._
+
+Desktop:
+- [Calibre](https://calibre-ebook.com/) — for ebook development. I have heard mixed reviews about this.
+- [LyX](https://en.wikipedia.org/wiki/Lyx) — the graphical frontend for [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is the document processing frontend for [TeX](https://en.wikipedia.org/wiki/TeX), the world-class typesetting engine.
+- [Trelby](https://www.trelby.org/) — a neat screenplay composer.
+- [WPS Office](https://www.wps.com/) — a competitor to LibreOffice.
+- Image manipulation: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation and Inkscape for vector graphic (svg) development (print-ready images for publication).
+
+Online services:
+- [Overleaf](https://www.overleaf.com/) — an online LaTeX service which looks pretty slick.
+- The [Reedsy Book Editor](https://reedsy.com/write-a-book) — for book preparation, in particular ebooks.
+- [Zoho Workplace](https://www.zoho.com/workplace/?src=zoho-home&ireft=ohome) — a cloud-based competitor to Google Docs (and so much more).<br />
+  [Zoho](https://www.zoho.com/) offers a TON of tools, primarily aimed at the business community.
+- Miscellaneous services such as:
+  - [Google Keep](https://keep.google.com/) and [Trello](https://trello.com)
+  - [Keybase](https://keybase.io) Filesystem ([kbfs](https://book.keybase.io/docs/files))
+  - and even how I use [Signal](https://signal.org/) in my writing process.
+
+Other topics:
+- Thoughts on query letters and the publishing process. Not yet anyway.
+- Thoughts on submission to literary journals and the like. You are more likely to see a discussion on this topic on my blog, [Ruminations](https://errantruminant.com/blog/).
+
 
 ### What's _not_ discussed in this GitHub repo?
 
@@ -55,5 +69,3 @@ Write well.<br />
   I'm no expert. Do your own research. I hear lots of good things about a lot of providers—Lulu, BookBaby, Kobo, and others. In the past, there was Lulu and really no one else. The field has widened. [Joanna Penn](https://www.thecreativepenn.com/) is the queen of self-publishing. Subscribe to her podcast and review her site. She knows what she is talking about.
 - Audiobooks.  
   I know nothing about audiobooks (but Ms. Penn does, see above).
-- Thoughts on query letters and the publishing process. Not yet anyway.
-- Thoughts on submission to literary journals and the like. You are more likely to see a discussion on this topic on my blog, [Ruminations](https://errantruminant.com/blog/).
