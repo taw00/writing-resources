@@ -2,7 +2,7 @@
 
 ### Settling on a set of fonts for a project is hard
 
-There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a webpage look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but terrible in the text body.
+There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a web page look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but terrible in the text body.
 
 We have all wasted countless hours trying one font and then another and then another. The more look-and-feel is important to a project, the more difficult the choice. The more the font selection will linger—for example, with printed material—the choice becomes truly challenging.
 
@@ -16,7 +16,7 @@ In the latter stages, when you need to submit to an agent or a publisher, choose
 
 _**Publishing**_
 
-If you self-publishing (printed, ebook, ePub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
+If you self-publishing (printed, ebook, epub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
 
 ## TL;DR: The Fonts I Use
 
@@ -416,3 +416,11 @@ p { font-family: 'Averia Serif Libre', serif; }
 ```
 
 The fonts can also be found here: [serif](https://fontlibrary.org/face/averia-serif) and [sans serif](https://fontlibrary.org/face/averia-sans)
+
+---
+
+Resources
+
+* All about the font formats used on the web: [The Missing Guide to Font Formats: TTF, OTF, WOFF, WOFF2, EOT, and SVG](https://creativemarket.com/blog/the-missing-guide-to-font-formats). WARNING: The font compatibility chart is significantly out of date. Instead use this one .&nbsp;.&nbsp;.
+* [Webfont and Browser Combatibility Chart](https://transfonter.org/formats). And here's another one by good folks at Mozilla: [The Web Open Font Format (WOFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF)
+* Butterick, Matthew. Publishing date unknown (2018?). _Practical Typography._ [practicaltypography.com](https://practicaltypography.com/). Accessed, May 24, 2020.
