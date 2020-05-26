@@ -1,5 +1,5 @@
 !README.Structure
 
-Everything associated to structuring the short story or novel. So, your outline (or outlines), scene cards, character description and backstory, etc.
+> Refer to `!README.Project` in the `Project 0 ...` notebook for context and overall description.
 
-See `!README.Writing Projects` for a summary of the structure.
+Everything associated to structuring the short story or novel. So, your outline (or outlines), scene cards, character description and backstory, etc.

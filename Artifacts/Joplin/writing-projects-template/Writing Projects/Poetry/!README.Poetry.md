@@ -2,7 +2,7 @@
 
 Create a "New note" (see menu above) and draft all your bad poetry here. I've including one of mine.
 
-2019-06-03 — Crepuscular Dreams
+`2019-06-03 — Crepuscular Dreams`
 
 > ---
 >
