@@ -1,4 +1,4 @@
-# Using LibreOffice for Manuscript Formatting and Development
+# LibreOffice for Manuscript Formatting and Development
 
 LibreOffice works well for manuscript submission. It can track changes and save to .docx or .odt, two formats that most publishing houses accept and prefer.
 

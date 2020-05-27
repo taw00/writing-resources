@@ -1,6 +1,6 @@
-# Joplin, Writing Managed as a Project
+# Joplin: Writing Managed as a Project
 
-Joplin is an end-to-end encrypted notebook manager that enables contextual storage of nearly anything: Documents, Images, Files, everything. Everything is structured as either a notebook (a folder) or a [markdown document](https://en.wikipedia.org/wiki/Markdown) (just like the document you are reading now). Non-markdown objects (images, files, etc) are attachments within markdown documents. Thus, everything retains context.
+Joplin is an end-to-end encrypted notebook manager that enables contextual storage of nearly anything: Documents, Images, Files, everything. Everything is structured as either a notebook (a folder) or a [markdown document](https://joplinapp.org/markdown/) (just like the document you are reading now). Non-markdown objects (images, files, etc) are attachments within markdown documents. Thus, everything retains context.
 
 Joplin is my second brain. It's where I store all of my ideas, many of my draft documents, all of my staged blog posts. It's my creative dumping ground. It's also where I do a ton of drafting before moving to Google Docs or LibreOffice.
 
@@ -9,7 +9,7 @@ Check out the project website, [joplinapp.org](https://joplinapp.org/). Joplin i
 ## Why Joplin?
 
 These are the features that attracted me to Joplin:
-* Your documents are formatted in [Markdown](https://en.wikipedia.org/wiki/Markdown). Nice and simple.
+* Your documents are formatted in markdown. Nice and simple.
 * It nicely previews the Markdown so you can see what a printout would look like, roughly.
 * I can store to several different cloud storage services (I use Dropbox).
 * It's all end-to-end encrypted.
@@ -90,6 +90,8 @@ I'm not going to detail out how to use Joplin completely, but this is what I do 
 
           Scene Card 3.z — They Lived Happily Ever After
 
+  - 1.1.2 Characters
+  - 1.1.3 World
 - 1.2 Research and Notes
 - ~Trash and Archive
 

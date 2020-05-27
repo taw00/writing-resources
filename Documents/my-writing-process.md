@@ -1,11 +1,11 @@
 # My writing process (in tools)
 
-## From Draft to Submission
+## From Draft to Revision to Review to Submission
 
-|   |   |   |   |   |
-| ------------ | --------- | -------------- | --------- | ---------------- |
-| **[Draft0]** | &#x27F6; | **[Revision]** | &#x27F6; | **[Submission]** |
-| Pen &amp; Paper | &#x27F6; | Joplin<br>LibreOffice Writer<br>Google Docs | &#x27F6; | LibreOffice Writer |
+|   |   |   |   |   |   |   |
+| - | - | - | - | - | - | - |
+| **[Draft0]** | &#x27F6; | **[Draft / Revision]**   | &#x27F6; | **[Review]**                           | &#x27F6; | **[Submission]** |
+| Pen &amp; Paper<br />or Joplin | &#x27F6; | Joplin | &#x27F6; | LibreOffice Writer<br />or Google Docs | &#x27F6; | LibreOffice Writer<br />or Google Docs (maybe) |
 
 <!--
 
@@ -24,11 +24,11 @@ Once the project is starting to settle, only then do I migrate to something that
 
 ## Self-publication
 
-_Disclaimer: I haven't self-published (books) in years, so I am still exploring that side of things._
+_Disclaimer: I haven't self-published anything besides blog articles in years, so I am still exploring that side of things._
 
-- Physical (books, static PDF): LaTeX or OpenOffice Writer
-- Digital (ePub, etc.): Reedsy Book Editor? Overleaf?
-- Poems (static PDF): OpenOffice Writer or LyX
+- Physical (books, static PDF): OpenOffice Writer or LyX/LaTeX. Scribus? Inkscape for art?
+- Digital (ePub, etc.): Calibre? Reedsy Book Editor? Overleaf?
+- Poems (static PDF): OpenOffice Writer or LyX/LaTeX
 - Blog: Cut-n-paste (from Joplin) into blog editor as markdown; review; post.
 
 ## Archiving: I store everything in multiple places
@@ -53,7 +53,7 @@ I am terrified of losing things. I _have_ lost things in the past. Therefore, I 
   - Pilot G2 Gel (red ink) — I use this for marking up when I edit or add notes to text.
 - [Fedora Linux](https://getfedora.com)  
   Since 1995 or 1996, Linux has been my desktop.
-- [Markdown](https://en.wikipedia.org/wiki/Markdown)-based editors / document management platforms  
+- [Markdown](https://joplinapp.org/markdown/)-based editors / document management platforms  
   - [Joplin](https://joplinapp.com/)  
     Joplin is at its core a markdown editor. But it also can be used to store just about anything while syncing between desktop and mobile, end-to-end encrypted. I maintain Fedora-friendly [Joplin packages](https://github.com/taw00/joplin-rpm) as a member of the open source Joplin community.
   - [Atom](https://atom.io/) and [GhostWriter](https://wereturtle.github.io/ghostwriter/) and [Vim](https://www.vim.org/)

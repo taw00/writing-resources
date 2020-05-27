@@ -37,7 +37,7 @@ _At least not at length but will likely be expanded upon eventually._
 Desktop:
 - [Bibisci](https://www.bibisco.com/) — Really shines as a character and world-building tool.
 - [Calibre](https://calibre-ebook.com/) — for ebook development. I have heard mixed reviews about this.
-- [LyX](https://en.wikipedia.org/wiki/Lyx) — the graphical frontend for [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is the document processing frontend for [TeX](https://en.wikipedia.org/wiki/TeX), the world-class typesetting engine.
+- LyX: <https://www.lyx.org/> and <https://en.wikipedia.org/wiki/LyX>, a graphical front end to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is a kinder and gentler front end to [TeX](https://en.wikipedia.org/wiki/TeX),  a powerful typesetting engine.
 - [Manuskript](http://www.theologeek.ch/manuskript/) — Scrivener-like. Interesting. Currently a bit unstable.
 - [Scribus](https://www.scribus.net/) — A powerful layout tool.
 - [Trelby](https://www.trelby.org/) — a neat screenplay composer.
