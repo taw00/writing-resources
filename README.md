@@ -35,11 +35,15 @@ Write well.<br />
 _At least not at length but will likely be expanded upon eventually._
 
 Desktop:
+- [Bibisci](https://www.bibisco.com/) — Really shines as a character and world-building tool.
 - [Calibre](https://calibre-ebook.com/) — for ebook development. I have heard mixed reviews about this.
 - [LyX](https://en.wikipedia.org/wiki/Lyx) — the graphical frontend for [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is the document processing frontend for [TeX](https://en.wikipedia.org/wiki/TeX), the world-class typesetting engine.
+- [Manuskript](http://www.theologeek.ch/manuskript/) — Scrivener-like. Interesting. Currently a bit unstable.
+- [Scribus](https://www.scribus.net/) — A powerful layout tool.
 - [Trelby](https://www.trelby.org/) — a neat screenplay composer.
 - [WPS Office](https://www.wps.com/) — a competitor to LibreOffice.
 - Image manipulation: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation and Inkscape for vector graphic (svg) development (print-ready images for publication).
+- [oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. Abandoned. Left here because it comes up any time you search for open source and writing tools.
 
 Online services:
 - [Overleaf](https://www.overleaf.com/) — an online LaTeX service which looks pretty slick.
