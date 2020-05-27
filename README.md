@@ -20,7 +20,7 @@ I hope you find this valuable, and I invite all of you to send me corrections an
 
 ## What's in this GitHub repo?
 
-* The [Documents](./Documents) folder. &nbsp; _Go here now_.<br />
+* **The [Documents](./Documents) folder. &nbsp; _Go here now_.**<br />
   How-tos, tips-n-tricks, configurations, etc. How I  leverage LibreOffice to format a manuscript. My thoughts on Google Docs. How I use Joplin for draft development. A discussion of fonts. How I set up a Linux machine to make typing em dashes and Chicago-style ellipses far easier. And much more.<br />
   &nbsp;
 * The [Artifacts](./Artifacts) folder.<br />
