@@ -4,9 +4,11 @@ _**On being a writer in a world of open-source software and inexpensive cloud se
 
 I write.
 
-I write short stories, novels, and poetry. I blog. I freelance write and edit. I am a past contributor to an online news outlet. I sometimes collaborate with others.
+I write short stories, novels, and poetry. I blog. I freelance write and edit. I sometimes collaborate with others.
 
-But I'm also a advocate for open source software and have been for 25 years. My desktop of choice is [Fedora Linux](https://getfedora.org/) and I do all my work using a mix of open source and cloud-based services.
+I am a past contributor to an online news outlet. I have written copious marketing and sales copy. I have contributed to a number of technical manuals.
+
+I'm also a advocate for open source software and have been for 25 years. My desktop of choice is [Fedora Linux](https://getfedora.org/) and I do all my work using a mix of open source and cloud-based services.
 
 ### Let me share my tools, templates, and how-tos
 
@@ -29,6 +31,8 @@ Write well.<br />
 —Todd Warner <todd@errantruminant.com>
 
 ---
+---
+
 ## <center>Addendum</center>
 
 ### What's _not yet_ discussed in this GitHub Repo?
