@@ -46,7 +46,7 @@ Desktop:
 - [Trelby](https://www.trelby.org/) — a neat screenplay composer.
 - [WPS Office](https://www.wps.com/) — a competitor to LibreOffice.
 - Image manipulation: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation and Inkscape for vector graphic (svg) development (print-ready images for publication).
-- [oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. Abandoned. Left here because it comes up any time you search for open source and writing tools.
+- [oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. The website makes it look abandoned, but I _think_ it still is under development.
 
 Online services:
 - [Overleaf](https://www.overleaf.com/) — an online LaTeX service which looks pretty slick.
