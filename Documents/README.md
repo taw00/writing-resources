@@ -1,5 +1,6 @@
 # On Writing, Tools, Processes
 
+- [Free and Open-Source Applications for Writers](https://errantruminant.com/blog/writing-resources/) — a blog entry on the larger topic of available applications for writers who value open-source or inexpensive cloud services that don't lock you into their ecosystem.
 - [My Writing Process](./my-writing-process.md) — a general description of how I write (from a tools perspective).
 - [Joplin: Writing Managed as a Project](howto-joplin.md) as my workhorse writing development platform.
 - Submissions (Manuscript development and formatting):

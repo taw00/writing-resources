@@ -1,4 +1,4 @@
-# On Fonts
+# On Fonts and Typography
 
 ### Settling on a set of fonts for a project is hard
 
@@ -6,7 +6,7 @@ There are a zillion different fonts to choose from. Each has their own personali
 
 We have all wasted countless hours trying one font and then another and then another. The more look-and-feel is important to a project, the more difficult the choice. The more the font selection will linger—for example, with printed material—the choice becomes truly challenging.
 
-The purpose of this document is to discuss the typeface (font) needs of the writer. Font selection in the general sense will be touched upon, but that is a large topic and will not be fully explored here. Therefore, we will not be, for example, focusing on the needs of the advertiser, designer, or graphic artist.
+The purpose of this document is to discuss the typeface (font) needs of the writer. Font selection in the general sense will be touched upon, but that is a large topic and will not be fully explored here. Therefore, we will not be, for example, focusing on the needs of the advertiser, designer, or graphic artist. It could be argued that the real dicussion should surround _typography_ more than merely _fonts_ but .&nbsp;.&nbsp;. well, I talk mostly about fonts. Read more about typography here: <https://practicaltypography.com/typography-in-ten-minutes.html>.
 
 _**Developmental writing**_
 
