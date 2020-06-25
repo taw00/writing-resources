@@ -1,4 +1,4 @@
-# On Fonts and Typography
+# On Fonts and Typography for Writers
 
 ### Settling on a set of fonts for a project is hard
 
