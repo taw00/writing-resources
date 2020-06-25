@@ -35,7 +35,7 @@ We'll discuss all kinds of fonts here in a second, but to keep things grounded, 
     - For editors who want Courier (crazy people!): TeX Gyre Cursor or Noto Mono
   - Heading and Frontmatter: Surprise! Use the same font for everything.
 * _Publishing_
-  - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Text
+  - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Pro
   - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans/Serif Libre (the Avería fonts are almost too unique).
 
 **For print (Google Docs)**
@@ -45,9 +45,9 @@ We'll discuss all kinds of fonts here in a second, but to keep things grounded, 
 **For the web**  
 I maintain three websites using these fonts (they change a bit frequently):
 1. <!--tf-->Text: Cardo and Fira Mono / Headings: Fira Sans Book
-2. <!--tr-->Text: Crimson Text and Fira Mono / Headings: Fira Sans Book
+2. <!--tr-->Text: Crimson Pro and Fira Mono / Headings: Fira Sans Book
 3. <!--er-->Text: Libre Caslon Text and Fira Mono / Headings: Avería Sans Libre<br />
-   Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor, Overpass, Overpass Mono
+   Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Pro, Croscore Cursor, Overpass, Overpass Mono
 
 ## Fonts: Draft &#x27F6; Submission
 
@@ -137,7 +137,7 @@ _**Proportional Serif fonts**_
 | ❤ _Tinos (Croscore Tinos)_ | ❤ _Caslon (10pt)_<br/><span style="font-size: 50%;">(Libre Caslon Text)</span> | Latin Modern Roman |
 | | ❤ _Cardo (11pt)_ | Merriweather |
 | | Cormorant Infant Medium | Pagella (TeX Gyre Pagella)<br/><span style="font-size: 50%;">(like Palantino)</span> |
-| | ❤ _Crimson Text_ | Schola (TeX Gyre Schola, 11pt)<br/><span style="font-size: 50%;">(like Century Schoolbook)</span> |
+| | ❤ _Crimson Pro_ | Schola (TeX Gyre Schola, 11pt)<br/><span style="font-size: 50%;">(like Century Schoolbook)</span> |
 | |  | Source Serif Pro |
 
 </div>
