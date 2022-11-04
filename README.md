@@ -22,8 +22,13 @@ I hope you find this valuable, and I invite all of you to send me corrections an
 
 * **The [Documents](./Documents) folder. &nbsp; _Go here now_.**<br />
   How-tos, tips-n-tricks, configurations, etc. How I  leverage LibreOffice to format a manuscript. My thoughts on Google Docs. How I use Joplin for draft development. A discussion of fonts. How I set up a Linux machine to make typing em dashes and Chicago-style ellipses far easier. And much more.<br />
-* The [Artifacts](./Artifacts) folder.<br />
+* **The [Artifacts](./Artifacts) folder.**<br />
   Templates, example manuscripts, and CSS in support of everything articulated in the Documents folder.
+
+## Check out my _other_ GitHub repo
+
+* **Write your story in Markdown and export it as a  Manuscript Formatted PDF**<br />
+  https://github.com/taw00/manuscript-css/
 
 &nbsp;<br />
 Write well.<br />
@@ -49,8 +54,8 @@ Desktop:
 - [oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. The website makes it look abandoned, but I _think_ it still is under development.
 
 Online services:
-- [Overleaf](https://www.overleaf.com/) — an online LaTeX service which looks pretty slick.
 - The [Reedsy Book Editor](https://reedsy.com/write-a-book) — for book preparation, in particular ebooks.
+- [Overleaf](https://www.overleaf.com/) — an online LaTeX service which looks pretty slick.
 - [Zoho Workplace](https://www.zoho.com/workplace/?src=zoho-home&ireft=ohome) — a cloud-based competitor to Google Docs (and so much more).<br />
   [Zoho](https://www.zoho.com/) offers a TON of tools, primarily aimed at the business community.
 - Miscellaneous services such as:

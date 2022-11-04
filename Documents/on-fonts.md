@@ -30,7 +30,7 @@ We'll discuss all kinds of fonts here in a second, but to keep things grounded, 
 * _Submission (12pt. always)_
   - Text body: TeX Gyre Termes (second choice Croscore Tinos)
     - For editors who want Arial: Croscore Arimo
-    - For editors who want Helvetica: Tex Gyre Heros
+    - For editors who want Helvetica: TeX Gyre Heros
     - For editors who want Calibri: Crosextra Carlito
     - For editors who want Courier (crazy people!): TeX Gyre Cursor or Noto Mono
   - Heading and Frontmatter: Surprise! Use the same font for everything.
