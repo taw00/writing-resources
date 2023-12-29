@@ -2,99 +2,105 @@
 
 ### Settling on a set of fonts for a project is hard
 
-There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a web page look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but terrible in the text body.
+There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a web page look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but are terrible in the text body.
 
-We have all wasted countless hours trying one font and then another and then another. The more look-and-feel is important to a project, the more difficult the choice. The more the font selection will linger—for example, with printed material—the choice becomes truly challenging.
+We have all wasted countless hours trying one font, then another, and then another. The more look-and-feel is important to a project, the more difficult the choice. The more permanent selection—for example, with printed material—the choice becomes truly challenging.
 
-The purpose of this document is to discuss the typeface (font) needs of the writer. Font selection in the general sense will be touched upon, but that is a large topic and will not be fully explored here. Therefore, we will not be, for example, focusing on the needs of the advertiser, designer, or graphic artist. It could be argued that the real dicussion should surround _typography_ more than merely _fonts_ but .&nbsp;.&nbsp;. well, I talk mostly about fonts. Read more about typography here: <https://practicaltypography.com/typography-in-ten-minutes.html>.
+The purpose of this document is to discuss the typeface (font) needs for the writer. Font selection in the general sense will be touched upon, but that is a large topic and will not be fully explored here. Therefore, we will not be, for example, focusing on the needs of the advertiser, designer, or graphic artist. It could be argued that the real discussion should surround _typography_ more than merely _fonts_ but .&nbsp;.&nbsp;. well, I talk mostly about fonts. Read more about typography here: <https://practicaltypography.com/typography-in-ten-minutes.html>.
 
 _**Developmental writing**_
 
-When it comes to developmental writing in the earliest stages, the choice of font becomes relatively easy: use whatever you like.
+When it comes to developmental writing in the earliest stages, the choice of font becomes relatively easy: use whatever you like. For example, I'm writing this document using a text editor. The typeface is Courier Prime, a monospaced font. Last week I was using Victor Mono, another monospaced font with some fancy flourishes when words are italicized.
 
-In the latter stages, when you need to submit to an agent or a publisher, choose something neutral, unobtrusive, traditional, utilitarian—something easy to read and without artistic flourish. Often that literary agency or publisher will make the choice for you and dictate a font style.
+_**Submission**_
 
-_**Publishing**_
+Once past the developmental stages, if going the traditional publishing route (literary journals, magazines, book publishers), we writers cobble everything together and prep for submission. In this case, the work needs to be initially put into a generalized manuscript form. For that, the very best guidelines, IMHO, can be found on writer William Shunn's website here: [www.shunn.net/format/](https://www.shunn.net/format/). I have reviewed a zillion sites and his is, hands-down, the best.
 
-If you self-publishing (printed, ebook, epub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date.
+So, get your document into manuscript form. The font? The font selection becomes even easier: **Times New Roman**. Now, this initial document (before you look at submission guidelines) can be any font you like, but my recommendation is to cave to convention and format it in Times New Roman. It's proprietary, but it is what the industry expects. And if you are submitting to a third party, you need to give them what they demand.
 
-## TL;DR: The Fonts I Use
+*A write-to-completion tip:* Everything I write to completion, whether I submit it or not, I eventually format it in such a way. It is good practice to file all of your work in a completed state. I also print it out and file the hardcopy away for posterity. Electrons are ephemeral; paper is forever.
+
+> Note, Shunn's site focuses on narrative prose and poetry. For screenplays and non-narrative non-fiction, the guidelines can be different. For screenplays choose **Courier New** and for non-narrative non-fiction, choose _probably_ Times New Roman, but maybe even Arial or Helvetica. I don't have a lot of experience with screenplays and non-narrative prose.
+
+Okay. You have a manuscript. It's submission time!
+
+For this process, it's now time to review an agent's or a publisher's submission guidelines for how they expect the manuscript to be formatted. Usually they simply ask for it to be in a conventional manuscript format, 12pt Times New Roman, double-spaced, and sent to them as a `.docx` file (formatted for Microsoft Word). Publishers are becoming more flexible though and they may simply as that it be in some standard manuscript format, any professional serif or sans-serif typeface, and sent as a `.docx` or `.odt` file. But you can't go wrong with, especially until you are established as a writer, `.docx` and Times New Roman for your final output.
+
+_**Self-Publishing**_
+
+If you self-publishing (printed, ebook, epub, or blog), your choice of font (or set of fonts) widens and needs to match the overall design of the book, publication, or website. Book content design is an entire subject unto itself that I will not go into here. Maybe I will at some later date, but great typeface choices for body-text are in the families of: Garamond, Goudy, Crimson Text, Sabon, Utopia, Merriweather, Minion Pro, Palantino. See below for excellent, unencumbered, options.
+
+
+### But! But! Linux doesn't supply Times New Roman!
+
+The short answer/solution: if you are on a platform that does not have Times New Roman installed, just do an internet search for how to install it and do it today.
+
+For example, as of Fedora Linux 39, you need to do this:
+```
+sudo dnf install curl cabextract xorg-x11-font-utils fontconfig -y
+sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
+```
+
+Linux users don't typically have the name-brand fonts installed (Times New Roman, Courier New, Arial/Helvetica/Calibri). In fact, for a very long time, the selection of fonts available to the open source world were very limited, and none that looked particularly great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
+
+Boy things have changed!
+
+Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft). The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier New, Arial, Helvetica, and Calibri. Feel free to use these mimics in place of the proprietary typefaces until you are forced to do otherwise but a particular publisher or agent.
+
+And so, today, the available variety of fonts is vast and of high quality. Especially in support of latin-based languages. (*If you have to support a breadth of character types, check out the Noto family of typefaces.*)
+
+For linux, many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
+
+> * In the Gnome desktop, open the _Software_ application (gnome-software)
+> * Scroll towards the bottom and in "Other categories" there should be a button labeled "Fonts". Click that.
+> * At the time of this writing (December 29, 2023 and Fedora Linux 39), I count nearly 300 fonts available.
+
+But even more can be found at or [Open Font Library](https://fontlibrary.org/), [Google Fonts](https://fonts.google.com), [dafont](https://www.dafont.com), and [FontSquirrel](https://fontsquirrel.com).
+
+And with that said, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives are listed in the next section below.
+
+
+## The Fonts I Use
 
 > **Spoiler alert!**
 >
-> <span style="font-size: 75%;">This is a long article just to say that nine times out of ten, given no other guidance, you want to choose a Times New Roman font equivalent for most stages of the revision and submission process.</span>
+> This is a long article just to say that nine times out of ten, given no other guidance, you want to choose **Times New Roman** for narrative and poetry works when submitting your work. And for the draft and revision process, use whatever you want.
 
-We'll discuss all kinds of fonts here in a second, but to keep things grounded, here are the fonts I predominantly use _at the moment_ (I change periodically) .&nbsp;.&nbsp;.
+There are alternative typefaces out there that nicely mimic the proprietary fonts. I often use these for my manuscripts that store away until forced to comply to some standard from a publisher. Here are those fonts …
+**LibreOffice, Google Docs, or even MS Word**
+* _Manuscript-standard (Times New Roman) mimics (12pt. always)_
+  - Text body: Croscore Tinos, TeX Gyre Termes, or Liberation Serif
+  - Heading and Frontmatter (story facts): Surprise! Use the same font for everything.
+* _San-Serif mimics_
+  - Arial: Croscore Arimo, Liberation Sans
+  - Helvetica: TeX Gyre Heros
+  - Calibri: Crosextra Carlito
+* _Screenplay-standard mimics_
+  - Courier New (monospace): Courier Prime, Courier Prime Code, TeX Gyre Cursor, Nimbus Mono PS, or Noto Mono. For a Courier-like, but more "sans-serif" experience, check out Courier Prime Sans or Croscore Cousine.
 
-**For print (LibreOffice)**
-* _Submission (12pt. always)_
-  - Text body: TeX Gyre Termes (second choice Croscore Tinos)
-    - For editors who want Arial: Croscore Arimo
-    - For editors who want Helvetica: TeX Gyre Heros
-    - For editors who want Calibri: Crosextra Carlito
-    - For editors who want Courier (crazy people!): TeX Gyre Cursor or Noto Mono
-  - Heading and Frontmatter: Surprise! Use the same font for everything.
-* _Publishing_
+**For Self-publishing, some of my choices are&nbsp;.&nbsp;.&nbsp;.**
   - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Pro
   - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans/Serif Libre (the Avería fonts are almost too unique).
 
-**For print (Google Docs)**
-* _Submission (12pt. always):_ Croscore Tinos (or, see above: Arimo, Carlito, or Noto Mono)
-* _Publishing:_ Don't use Google Docs for documents targeting publication except maybe short essays or flash fiction and then only if the text doesn't need to be justified (and therefore properly hyphenated).
-
 **For the web**  
-I maintain three websites using these fonts (they change a bit frequently):
+I didn't really talk much about website typefaces, but I maintain three websites using these fonts (they change a bit frequently):
+
 1. <!--tf-->Text: Cardo and Fira Mono / Headings: Fira Sans Book
 2. <!--tr-->Text: Crimson Pro and Fira Mono / Headings: Fira Sans Book
 3. <!--er-->Text: Libre Caslon Text and Fira Mono / Headings: Avería Sans Libre<br />
    Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Pro, Croscore Cursor, Overpass, Overpass Mono
 
-## Fonts: Draft &#x27F6; Submission
-
-### The big three:<br />&emsp;Times New Roman, Courier New, and Arial/Helvetica
-
-**Times New Roman.** Times is a proportional serif font for which writers, editors, everyone have settled on as _the_ default standard for submission. Or just about everyone. And heck, even if self-publishing, Times is a safe and reliable font choice for your book as well. Times is a readable and reasonably attractive font.
-
-**Courier New.** Courier is a monospace serif font that _used_ to be the standard for drafting and submission. Typewriters produced documents in courier font; therefore, manuscripts were expected to be submitted in that format. Only recently has this legacy font died off as the preferred choice of editors. We no longer use typewriters nor do we submit hard-copy manuscripts. Even that Luddite of Luddites, Wendell Berry, submits a manuscript to his publisher in digital format. He handwrites his manuscripts (in pencil) and then his wife types it up on a typewriter, then they pay someone to enter it into a word processor which then gets submitted to his agent/publisher electronically. There may be some editor out there that still prefers your manuscript be submitted in a monospaced serif font, but it's highly unlikely.
-
-**Arial/Helvetica.** Rumor has it that some editors prefer the copy in a sans-serif font. They are crazy people, but if so, Arial (or Helvetica or Calibri) is the typical choice.
-
-Times New Roman®, Courier New, Arial®, Helvetica®, Calibri®, etc. are trademarked brand names for a certain set of designs. Designs where the type foundries that own them (Monotype for most of these) essentially have a proprietary lock on, if not the design, the trademark (note, Courier New is somehow different in a way I don't understand).
-
-To agents and editors, _Times New Roman_® is to default serif font as _Kleenex®_ is to nasal tissue. What they are really asking for is a highly readable, cleanly designed font that isn't distracting.
-
-### But! But! Linux doesn't supply these fonts!
-
-Linux users don't typically have these name-brand fonts installed. In fact, for a very long time, the selection of fonts available to the open source world were very limited—none that looked great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
-
-Boy things have changed!
-
-Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft) or really hybrid open and closed source platforms. The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier New, and Arial. Even Helvetica and Calibri.
-
-Today, the available variety of fonts is vast and of high quality. Especially in support of latin-based languages.
-
-For linux, many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
-
-> * In the Gnome desktop, open the _Software_ application (gnome-software)
-> * Click "Add-ons" and then "Fonts"
-> * At the time of this writing (May 5th, 2020 and Fedora 31), I count 272 fonts available.
-
-But even more can be found at or [Open Font Library](https://fontlibrary.org/), [Google Fonts](https://fonts.google.com), [dafont](https://www.dafont.com), and [FontSquirrel](https://fontsquirrel.com).
-
-And with that, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives include&nbsp;.&nbsp;.&nbsp;.
-* Times New Roman &#x27F6; Liberation Serif, TeX Gyre Termes, Croscore Tinos
-* Courier New &#x27F6; TeX Gyre Cursor, Nimbus Mono PS, Noto Mono  
-  Courier New (but sans) &#x27F6; Croscore Cousine
-* Arial &#x27F6; Croscore Arimo, Liberation Sans  
-  Helvetica &#x27F6; TeX Gyre Heros  
-  Calibri &#x27F6; Crosextra Carlito
-
-> _In short: for submission of a manuscript, choose Liberation Serif, Termes, or Tinos unless you are asked to do otherwise._
-
-**Installation on Fedora 32**
+**Installation of some of these on Fedora Linux 39**
 ```
+# TeX Gyre Termes, TeX Gyre Cursor, TeX Gyre Heros, and more
+# Croscore Tinos, Croscore Cousine, Croscore Arimo, Crosextra fonts, and more
+# Liberation Serif, Liberation Sans, Nimbus Mono PS, Noto Mono, and more
 sudo dnf install texlive-tex-gyre* google-croscore-* google-crosextra-* google-noto-* liberation-* urw-*-nimbus-*
 ```
+
+
+
+<!--
 
 > We could stop right there for the purposes of putting together a manuscript, but, for those who want to explore some of the other fonts out there, read on. There is a whole world of nuanced fonts for publishing, whether that be to the web (blog posts and such) or print.
 
@@ -222,14 +228,18 @@ In conclusion, once you have whittled down the fonts that interest you&nbsp;.&nb
   - For a book, print out a handful of pages for each candidate font and compare them to books from your bookshelf. Again, are they attractive _and_ non-distracting? Does the tone of each font fit the genre of your writing? What do other books in your genre use for their fonts, both headings and body text? And don't forget to compare your frontmatter with the frontmatter of other books.
   - For a webpage, deploy your font selection and then zoom in and out, stretch the window, make it tall, print the webpage. What happens?
 
+-->
+
 &nbsp;  
 Fonts can lead you down a path of darkness and sorrow. Be careful out there. Just make sure you are happy with the fonts you have chosen. Good luck!
 
 —Todd Warner <todd@errantruminant.com>
 
 
+
 ---
 ---
+
 ## <center>Addendum</center>
 
 ### Where to find certain fonts and how to install them
@@ -238,7 +248,6 @@ Fonts can lead you down a path of darkness and sorrow. Be careful out there. Jus
 
 **Desktop installation (as described previously):**
 ```
-
 # TeX Gyre Termes, TeX Gyre Cursor, TeX Gyre Heros, and more
 # Croscore Tinos, Croscore Cousine, Croscore Arimo, Crosextra fonts, and more
 # Liberation Serif, Liberation Sans, Nimbus Mono PS, Noto Mono, and more
@@ -283,6 +292,8 @@ p, .libserif {
 
 I leave it to the reader to figure out the rest. Most of the other fonts can be installed similarly. I will mention a couple others where there may be more too it than that.
 
+<!--
+
 #### Fira
 
 There are two major forks of Fira and a third future Fira. All this is confusing. The Fira that is canonical is [Mozilla's Fira](https://github.com/mozilla/Fira). [bBoxType's Fira](https://github.com/bBoxType/FiraSans) is somehow a smidge different and should be avoided, IMHO (controversy?). But bBoxType is working on something called [FiraGO](https://github.com/bBoxType/FiraGO), but it is no where near completion so .&nbsp;.&nbsp;. Anyway. Just use Mozilla's Fira and maybe Tonsky's Fira Code extension of Fira Mono. They can easily be utilized on the desktop via supplied OS packages and on the web via Mozilla and Tonksy directly, Google Fonts, or FontSquirrel
@@ -307,7 +318,9 @@ sudo dnf install fira-code-fonts mozilla-fira-*
 
 **Web availability (add to your HTML or CSS):**
 ```
+-->
 <!-- HTML -->
+<!--
 <link rel="stylesheet" href="https://code.cdn.mozilla.net/fonts/fira.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@3/distr/fira_code.css">
 ```
@@ -334,6 +347,8 @@ Or, if you are like me, and on a webpage you prefer straight-up Fira Mono:
 p { font-family: 'Fira Sans', sans-serif; }
 code { font-family: 'Fira Mono', monospace; }
 ```
+
+-->
 
 #### Cardo
 
