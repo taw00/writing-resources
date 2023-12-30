@@ -1,5 +1,22 @@
 # On Fonts and Typography for Writers
 
+### TL;DR
+
+##### Typefaces for …
+
+1. **Drafts:** use whatever font you like.
+2. **Developmental manuscripts:**
+   - *narrative prose and poetry:* some readable Times serif New Roman-like typeface.
+   - *non-narrative prose:* some readable sans-serif Arial-like typeface
+   - *screenplays:* some readable monospace Courier New-like typeface
+3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, Courier New for the categories above, -OR- whatever the agent or publisher demands in their submission guidlines.
+
+##### What about …
+
+- **Alternatives to those proprietary fonts:** See below. And only choose those typefaces for drafts, developmental manuscripts, or submissions that allow them.
+- **Installing those proprietary fonts on linux:** Google it. It's simple, and Microsoft allows it, apparently. (They didn't for the longest time.)
+- **Recommendations for wordy websites?** See below.
+
 ### Settling on a set of fonts for a project is hard
 
 There are a zillion different fonts to choose from. Each has their own personality, vibe, _feel_. Fonts are nuanced. Something that wows on screen can disappoint on the page. A font that looks amazing on the printed page can make a web page look stilted. Fonts that look great in small doses, look mediocre once viewed as a page full of text. And some fonts make great headers but are terrible in the text body.
