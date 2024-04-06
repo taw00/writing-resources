@@ -8,8 +8,8 @@
 2. **Developmental manuscripts:**
    - *narrative prose and poetry:* some readable Times serif New Roman-like typeface.
    - *non-narrative prose:* some readable sans-serif Arial-like typeface
-   - *screenplays:* some readable monospace Courier New-like typeface
-3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, Courier New for the categories above, -OR- whatever the agent or publisher demands in their submission guidlines.
+   - *screenplays:* a typeface that matches Courier's metrics precisely. This is a strict rule.
+3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, Courier for the categories above, -OR- whatever the agent or publisher demands in their submission guidlines.
 
 ##### What about …
 
@@ -35,9 +35,11 @@ Once past the developmental stages, if going the traditional publishing route (l
 
 So, get your document into manuscript form. The font? The font selection becomes even easier: **Times New Roman**. Now, this initial document (before you look at submission guidelines) can be any font you like, but my recommendation is to cave to convention and format it in Times New Roman. It's proprietary, but it is what the industry expects. And if you are submitting to a third party, you need to give them what they demand.
 
-*A write-to-completion tip:* Everything I write to completion, whether I submit it or not, I eventually format it in such a way. It is good practice to file all of your work in a completed state. I also print it out and file the hardcopy away for posterity. Electrons are ephemeral; paper is forever.
+*A write-to-completion tip:* Everything I write I write to completion, whether I submit it or not, I eventually format it in such a way. It is good practice to file all of your work for posterity in a completed state. I also print it out and file the hardcopy away as well. Electrons are ephemeral; paper is forever.
 
-> Note, Shunn's site focuses on narrative prose and poetry. For screenplays and non-narrative non-fiction, the guidelines can be different. For screenplays choose **Courier New** and for non-narrative non-fiction, choose _probably_ Times New Roman, but maybe even Arial or Helvetica. I don't have a lot of experience with screenplays and non-narrative prose.
+> Note, Shunn's site focuses on narrative prose and poetry. For non-narrative non-fiction, the guidelines can be different. Some Arial-like sans-serif typeface is generally accepted, though, again, Times New Roman is always a safe bet if they give you no guidelines. I don't have a lot of experience with non-narrative prose in the submissions process.
+
+> The screenplay standards are strict. You screenplay is _required_ to use a typeface that is metrically identical to Courier. Not Courier New, but Courier. But Courier is dated. Instead use *[Courier Prime](https://johnaugust.com/2013/introducing-courier-prime)*, and if your prefer (and they allow), *Courier Prime Sans*. Courier Prime is a safe bet and the industry has embraced it. (If you use the programs Fade In or Final Draft to write your screenplay, their own versions of Courier also meet the spec.) And that is all I am going to say about screenplays now.
 
 Okay. You have a manuscript. It's submission time!
 
@@ -58,11 +60,11 @@ sudo dnf install curl cabextract xorg-x11-font-utils fontconfig -y
 sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
 ```
 
-Linux users don't typically have the name-brand fonts installed (Times New Roman, Courier New, Arial/Helvetica/Calibri). In fact, for a very long time, the selection of fonts available to the open source world were very limited, and none that looked particularly great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
+Linux users don't typically have the name-brand fonts installed (Times New Roman, Courier, Arial/Helvetica/Calibri). In fact, for a very long time, the selection of fonts available to the open source world were very limited, and none that looked particularly great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
 
 Boy things have changed!
 
-Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft). The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier New, Arial, Helvetica, and Calibri. Feel free to use these mimics in place of the proprietary typefaces until you are forced to do otherwise but a particular publisher or agent.
+Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft). The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier, Arial, Helvetica, and Calibri. Feel free to use these mimics in place of the proprietary typefaces until you are forced to do otherwise but a particular publisher or agent.
 
 And so, today, the available variety of fonts is vast and of high quality. Especially in support of latin-based languages. (*If you have to support a breadth of character types, check out the Noto family of typefaces.*)
 
@@ -74,7 +76,7 @@ For linux, many fonts are available as packaged items&nbsp;.&nbsp;.&nbsp;.
 
 But even more can be found at or [Open Font Library](https://fontlibrary.org/), [Google Fonts](https://fonts.google.com), [dafont](https://www.dafont.com), and [FontSquirrel](https://fontsquirrel.com).
 
-And with that said, Times New Roman—and Courier New and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives are listed in the next section below.
+And with that said, Times New Roman—and Courier and Arial and the rest—have open alternatives that, I would argue, are just as mature and effective today as the ones they emulate. Some reasonable alternatives are listed in the next section below.
 
 
 ## The Fonts I Use
@@ -93,10 +95,10 @@ There are alternative typefaces out there that nicely mimic the proprietary font
   - Helvetica: TeX Gyre Heros
   - Calibri: Crosextra Carlito
 * _Screenplay-standard mimics_
-  - Courier New (monospace): Courier Prime, Courier Prime Code, TeX Gyre Cursor, Nimbus Mono PS, or Noto Mono. For a Courier-like, but more "sans-serif" experience, check out Courier Prime Sans or Croscore Cousine.
+  - Courier (monospace): Courier Prime, TeX Gyre Cursor, Nimbus Mono PS, or Noto Mono. For a Courier-like, but more "sans-serif" experience, check out Courier Prime Sans, Courier Prime Code, or Croscore Cousine.
 
 **For Self-publishing, some of my choices are&nbsp;.&nbsp;.&nbsp;.**
-  - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Pro
+  - Text body: EB Garamond, Cormorant Garamand Medium, Cardo (11pt), Libre Caslon Text (10pt), or Crimson Text or Crimson Pro
   - Headings: Fira Sans Book, TeX Gyre Pagella (Palantino-like), Overpass, Crosextra Carlito, Montserrat, or Avería Sans/Serif Libre (the Avería fonts are almost too unique).
 
 **For the web**  
@@ -171,7 +173,7 @@ _**Monospace Serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Metrically Compatable<br/><span style="font-size: 75%;">to Courier New</span> | Other Mono-Serif<br/>&nbsp; |
+| Metrically Compatable<br/><span style="font-size: 75%;">to Courier</span> | Other Mono-Serif<br/>&nbsp; |
 | -- | -- |
 | ❤ _Cursor (TeX Gyre Cursor)_ | ❤ _Anonymous Pro_ |
 | | | |
@@ -209,7 +211,7 @@ _**Monospace sans-serif fonts**_
 
 <div style="font-size: 75%;">
 
-| Metrically Compatable<br/><span style="font-size: 75%;">to Courier New (but Sans)</span> | Other Mono Sans<br/><span style="font-size: 75%;">like Menlo, SF Mono, Consolas, etc.</span> |
+| Metrically Compatable<br/><span style="font-size: 75%;">to Courier (but Sans)</span> | Other Mono Sans<br/><span style="font-size: 75%;">like Menlo, SF Mono, Consolas, etc.</span> |
 | -- | -- |
 | Cousine<br/><span style="font-size: 50%;">(Croscore family)</span> | Comfortaa |
 | DejaVu Sans Mono | ❤ _Fira Mono_ |
