@@ -39,7 +39,7 @@ So, get your document into manuscript form. The font? The font selection becomes
 
 > Note, Shunn's site focuses on narrative prose and poetry. For non-narrative non-fiction, the guidelines can be different. Some Arial-like sans-serif typeface is generally accepted, though, again, Times New Roman is always a safe bet if they give you no guidelines. I don't have a lot of experience with non-narrative prose in the submissions process.
 
-> The screenplay standards are strict. You screenplay is _required_ to use a typeface that is metrically identical to Courier. Not Courier New, but Courier. But Courier is dated. Instead use *[Courier Prime](https://johnaugust.com/2013/introducing-courier-prime)*, and if your prefer (and they allow), *Courier Prime Sans*. Courier Prime is a safe bet and the industry has embraced it. (If you use the programs Fade In or Final Draft to write your screenplay, their own versions of Courier also meet the spec.) And that is all I am going to say about screenplays now.
+> The screenplay standards are strict. You screenplay is _required_ to use a typeface that is metrically identical to Courier. Not Courier New, but Courier. But Courier is dated. Instead use *[Courier Prime](https://johnaugust.com/2013/introducing-courier-prime)*, and if your prefer (and they allow), *Courier Prime Sans*. Courier Prime at 12pt is the safe bet and the industry has embraced it. (If you use the programs Fade In or Final Draft to write your screenplay, their own versions of Courier also meet the spec.) And that is all I am going to say about screenplays now.
 
 Okay. You have a manuscript. It's submission time!
 
