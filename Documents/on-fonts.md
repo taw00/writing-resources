@@ -5,11 +5,13 @@
 ##### Typefaces for …
 
 1. **Drafts:** use whatever font you like.
-2. **Developmental manuscripts:**
+2. **Developmental manuscripts and screenplays:**
    - *narrative prose and poetry:* some readable Times serif New Roman-like typeface.
    - *non-narrative prose:* some readable sans-serif Arial-like typeface
    - *screenplays:* a typeface that matches Courier's metrics precisely. This is a strict rule.
-3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, Courier for the categories above, -OR- whatever the agent or publisher demands in their submission guidlines.
+3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, or whatever the agent or publisher demands in their submission guidelines.
+4. **Submitted screenplays:** Courier Prime or Courier (not Courier New). That's what you use.
+5. **Typeset books:** This is a wide open topic, but safe bets are: EB Garamond or Crimson Pro or Crimson Text for the interior book text. For chapter titles, margin text, and other smaller text that needs to stand our from the bulk text, maybe Source Sans Pro or Overpass. For the book title (inside the book, not the cover), I like Overpass, but this requires some design consideration.
 
 ##### What about …
 

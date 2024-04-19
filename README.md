@@ -49,8 +49,8 @@ Desktop:
 - [Calibre](https://calibre-ebook.com/) — for ebook development. I have heard mixed reviews about this.
 - [LyX](https://www.lyx.org/) — See also <https://en.wikipedia.org/wiki/LyX>. Lyx is a graphical front end to [LaTeX](https://en.wikipedia.org/wiki/LaTeX), which is a kinder and gentler front end to [TeX](https://en.wikipedia.org/wiki/TeX),  a powerful typesetting engine.
 - [WPS Office](https://www.wps.com/) — a competitor to LibreOffice.
-- Image manipulation: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation and Inkscape for vector graphic (svg) development (print-ready images for publication).
-- [oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. The website makes it look abandoned, but I _think_ it still is under development.
+- Image manipulation: [GIMP](https://www.gimp.org/) and [Inkscape](https://inkscape.org/). I use both pretty extensively. Until I put together some advice on using them .&nbsp;.&nbsp;. GIMP is for photo manipulation (think Adobe Photoshop) and Inkscape for vector graphic (svg) development (print-ready images for publication; think Adobe Illustrator).
+- ~~[oStorybook](https://ostorybook.tuxfamily.org/) — Scrivener-like. The website makes it look abandoned, but I _think_ it still is under development. Just don't use this. It barely works.~~
 
 Online services:
 - The [Reedsy Book Editor](https://reedsy.com/write-a-book) — for book preparation, in particular ebooks.
@@ -69,9 +69,9 @@ Other topics:
 
 ### What's _not_ discussed in this GitHub repo?
 
+- [Scribus](https://www.scribus.net/) — A powerful desktop publishing platform. (Think Adobe InDesign.) Use this to typeset your book. **RECOMMEND.**
 - [Scrivener](https://en.wikipedia.org/wiki/Scrivener_(software)), [Dabble](https://www.dabblewriter.com/), [Novlr](https://novlr.org/), [Ulysses](https://ulysses.app/), [Vellum](https://vellum.pub/), [Word](https://www.microsoft.com/en-us/microsoft-365/word), [Publisher](https://www.microsoft.com/en-us/microsoft-365/publisher), [InDesign](https://en.wikipedia.org/wiki/Adobe_InDesign), [QuarkExpress](https://en.wikipedia.org/wiki/QuarkXPress), [Framemaker](https://en.wikipedia.org/wiki/Adobe_FrameMaker), and the like. But they may be mentioned in passing or in general statements.
-- [Manuskript](http://www.theologeek.ch/manuskript/) — Scrivener-like. Interesting. Currently a bit unstable.
-- [Scribus](https://www.scribus.net/) — A powerful layout tool.
+- ~~[Manuskript](http://www.theologeek.ch/manuskript/) — Scrivener-like. Interesting. Currently, a bit unstable. At least for me. I don't recommend.~~
 - [Trelby](https://www.trelby.org/) — a neat screenplay composer.
 - [Fountain Markup](https://fountain.io/) — a plain text markup language for screenwriting. I really wish there were a novel equivalent of this.
 - [Abiword](https://www.abisource.com/)  
