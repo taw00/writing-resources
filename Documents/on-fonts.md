@@ -2,21 +2,21 @@
 
 ### TL;DR
 
-##### Typefaces for …
+##### Typefaces for (US-centric) …
 
 1. **Drafts:** use whatever font you like.
-2. **Developmental manuscripts and screenplays:**
+2. **Developmental manuscripts, screenplays, and stageplays:**
    - *narrative prose and poetry:* some readable Times serif New Roman-like typeface.
    - *non-narrative prose:* some readable sans-serif Arial-like typeface
-   - *screenplays:* a typeface that matches Courier's metrics precisely. This is a strict rule.
-3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri, or whatever the agent or publisher demands in their submission guidelines.
+   - *screenplays and stageplays:* a typeface that matches Courier's metrics precisely. This is a strict rule.
+3. **Submitted manuscripts:** Times New Roman, Arial/Helvetica/Calibri/Aptos, or whatever the agent or publisher demands in their submission guidelines.
 4. **Submitted screenplays:** Courier Prime or Courier (not Courier New). That's what you use.
 5. **Typeset books:** This is a wide open topic, but safe bets are: EB Garamond or Crimson Pro or Crimson Text for the interior book text. For chapter titles, margin text, and other smaller text that needs to stand our from the bulk text, maybe Source Sans Pro or Overpass. For the book title (inside the book, not the cover), I like Overpass, but this requires some design consideration.
 
 ##### What about …
 
 - **Alternatives to those proprietary fonts:** See below. And only choose those typefaces for drafts, developmental manuscripts, or submissions that allow them.
-- **Installing those proprietary fonts on linux:** Google it. It's simple, and Microsoft allows it, apparently. (They didn't for the longest time.)
+- **Installing those proprietary fonts on linux:** Google it. It's simple, and Microsoft allows it, apparently. (They didn't for the longest time.) Note that Aptos often has to be installed separately.
 - **Recommendations for wordy websites?** See below.
 
 ### Settling on a set of fonts for a project is hard
@@ -41,7 +41,7 @@ So, get your document into manuscript form. The font? The font selection becomes
 
 > Note, Shunn's site focuses on narrative prose and poetry. For non-narrative non-fiction, the guidelines can be different. Some Arial-like sans-serif typeface is generally accepted, though, again, Times New Roman is always a safe bet if they give you no guidelines. I don't have a lot of experience with non-narrative prose in the submissions process.
 
-> The screenplay standards are strict. You screenplay is _required_ to use a typeface that is metrically identical to Courier. Not Courier New, but Courier. But Courier is dated. Instead use *[Courier Prime](https://johnaugust.com/2013/introducing-courier-prime)*, and if your prefer (and they allow), *Courier Prime Sans*. Courier Prime at 12pt is the safe bet and the industry has embraced it. (If you use the programs Fade In or Final Draft to write your screenplay, their own versions of Courier also meet the spec.) And that is all I am going to say about screenplays now.
+> The screenplay standards are strict. You screenplay is _required_ to use a typeface that is metrically identical to Courier. Not Courier New, but Courier. But Courier is dated. Instead use *[Courier Prime](https://johnaugust.com/2013/introducing-courier-prime)*, and if your prefer (and they allow), *Courier Prime Sans*. Courier Prime at 12pt is the safe bet and the industry has embraced it. (If you use the programs Fade In or Final Draft to write your screenplay, their own versions of Courier also meet the spec.) And that is all I am going to say about screenplays now. I don't know enough about stageplays, but, from my understanding, they follow the same "rules."
 
 Okay. You have a manuscript. It's submission time!
 
@@ -62,11 +62,11 @@ sudo dnf install curl cabextract xorg-x11-font-utils fontconfig -y
 sudo rpm -i https://downloads.sourceforge.net/project/mscorefonts2/rpms/msttcore-fonts-installer-2.6-1.noarch.rpm
 ```
 
-Linux users don't typically have the name-brand fonts installed (Times New Roman, Courier, Arial/Helvetica/Calibri). In fact, for a very long time, the selection of fonts available to the open source world were very limited, and none that looked particularly great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
+Linux users don't typically have the name-brand fonts installed (Times New Roman, Courier, Arial/Helvetica/Calibri/Aptos). In fact, for a very long time, the selection of fonts available to the open source world were very limited, and none that looked particularly great on both the screen _and_ the page. The Linux desktop used to be full of usable, but unattractively grainy, fonts that served as poor substitutes for fonts provided by the proprietary world of Apple and Microsoft.
 
 Boy things have changed!
 
-Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft). The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier, Arial, Helvetica, and Calibri. Feel free to use these mimics in place of the proprietary typefaces until you are forced to do otherwise but a particular publisher or agent.
+Open source dominates all platforms now: mobile, web, servers, and even the the proprietary desktops of the world (Apple and Microsoft). The desire for _open everything_, the availability of font design tools, and strategic corporate sponsorship has led to a blossoming of open source fonts. And on top of the list are fonts that can serve as drop-in replacements (metrically compatible) for, you guessed it, Times New Roman, Courier, Arial, Helvetica, Calibri, and Aptos. Feel free to use these mimics in place of the proprietary typefaces until you are forced to do otherwise but a particular publisher or agent.
 
 And so, today, the available variety of fonts is vast and of high quality. Especially in support of latin-based languages. (*If you have to support a breadth of character types, check out the Noto family of typefaces.*)
 
@@ -96,7 +96,8 @@ There are alternative typefaces out there that nicely mimic the proprietary font
   - Arial: Croscore Arimo, Liberation Sans
   - Helvetica: TeX Gyre Heros
   - Calibri: Crosextra Carlito
-* _Screenplay-standard mimics_
+  - Aptos: ?????
+* _Screenplay- and Stageplay-standard mimics_
   - Courier (monospace): Courier Prime, TeX Gyre Cursor, Nimbus Mono PS, or Noto Mono. For a Courier-like, but more "sans-serif" experience, check out Courier Prime Sans, Courier Prime Code, or Croscore Cousine.
 
 **For Self-publishing, some of my choices are&nbsp;.&nbsp;.&nbsp;.**
@@ -107,9 +108,9 @@ There are alternative typefaces out there that nicely mimic the proprietary font
 I didn't really talk much about website typefaces, but I maintain three websites using these fonts (they change a bit frequently):
 
 1. <!--tf-->Text: Cardo and Fira Mono / Headings: Fira Sans Book
-2. <!--tr-->Text: Crimson Pro and Fira Mono / Headings: Fira Sans Book
+2. <!--tr-->Text: Crimson Text and Fira Mono / Headings: Fira Sans Book
 3. <!--er-->Text: Libre Caslon Text and Fira Mono / Headings: Avería Sans Libre<br />
-   Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Pro, Croscore Cursor, Overpass, Overpass Mono
+   Used for select blog posts (non-inclusive): Chilanka, Fira Sans Book, Crimson Text, Croscore Cursor, Overpass, Overpass Mono
 
 **Installation of some of these on Fedora Linux 39**
 ```
