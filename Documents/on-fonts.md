@@ -255,7 +255,7 @@ In conclusion, once you have whittled down the fonts that interest you&nbsp;.&nb
 &nbsp;  
 Fonts can lead you down a path of darkness and sorrow. Be careful out there. Just make sure you are happy with the fonts you have chosen. Good luck!
 
-—Todd Warner <todd@errantruminant.com>
+—Todd Warner <a href="https://forms.gle/ogCeqcdqNSogYkPU8">(google contact form)</a>
 
 
 
