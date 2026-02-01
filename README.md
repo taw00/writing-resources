@@ -34,7 +34,7 @@ I hope you find this valuable, and I invite all of you to send me corrections an
 
 &nbsp;<br />
 Write well.<br />
-—Todd Warner <todd@errantruminant.com>
+—Todd Warner <a href="https://forms.gle/ogCeqcdqNSogYkPU8">(google contact form)</a>
 
 ---
 ---
